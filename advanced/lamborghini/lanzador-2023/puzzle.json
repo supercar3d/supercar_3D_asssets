@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "brand": "Lamborghini",
+    "model": "Lanzador-2023",
+    "difficulty": "advanced",
+    "pieceCount": 76
+  },
+  "asset": {
+    "model": "lanzador-2023.glb"
+  },
+  "pieces": [
+    {
+      "id": "grille7_geo_loda_lamborghini_ivrewardrecycled_2024grille7a_mate",
+      "node": "Grille7_Geo_lodA_Lamborghini_IVRewardRecycled_2024Grille7A_Mate"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_materia",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Materia"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2024p",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2024P"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2024",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2024"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_202",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_202"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2001",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2001"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2002",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2002"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2013",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2013"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2016",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2016"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2028",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2028"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2029",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2029"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2041",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2041"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2046",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2046"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2062",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2062"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2067",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2067"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2083",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2083"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2094",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2094"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2098",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2098"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2101",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2101"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2126",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2126"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2131",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2131"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2139",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2139"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2146",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2146"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2150",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2150"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2163",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2163"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2164",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2164"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_ivrewardrecycled_2165",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_IVRewardRecycled_2165"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m073",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M073"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m074",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M074"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m079",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M079"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m080",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M080"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m086",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M086"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m093",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M093"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m096",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_M096"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m109",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m109"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m128",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m128"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m169",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m169"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m204",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m204"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m205",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m205"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m206",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m206"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m219",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m219"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m223",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m223"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m230",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m230"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m231",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m231"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m247",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m247"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m248",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m248"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m338",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m338"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_ivrewardrecycled_2024carbon1_m339",
+      "node": "Carbon1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1_m339"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured345",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured345"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured346",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured346"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured352",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured352"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured359",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured359"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured367",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured367"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured424",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured424"
+    },
+    {
+      "id": "grille1_geo_loda_lamborghini_ivrewardrecycled_2024grille1a_m",
+      "node": "Grille1_Geo_lodA_Lamborghini_IVRewardRecycled_2024Grille1A_M"
+    },
+    {
+      "id": "windowinside_geo_loda_lamborghini_ivrewardrecycled_2024wind001",
+      "node": "WindowInside_Geo_lodA_Lamborghini_IVRewardRecycled_2024Wind001"
+    },
+    {
+      "id": "windowinside_geo_loda_lamborghini_ivrewardrecycled_2024wind002",
+      "node": "WindowInside_Geo_lodA_Lamborghini_IVRewardRecycled_2024Wind002"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mate",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mate"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat006",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat006"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat007",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat007"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat008",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat008"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat014",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat014"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat015",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat015"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat016",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat016"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat017",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat017"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat018",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat018"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat019",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat019"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat029",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat029"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_ivrewardrecycled_2024window_mat032",
+      "node": "Window_Geo_lodA_Lamborghini_IVRewardRecycled_2024Window_Mat032"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_ivrewardrecycled_2024coloured425",
+      "node": "Coloured_Geo_lodA_Lamborghini_IVRewardRecycled_2024Coloured425"
+    },
+    {
+      "id": "polysurface2003_lamborghini_ivrewardrecycled_2024_wheel1a_3007",
+      "node": "polySurface2003_Lamborghini_IVRewardRecycled_2024_Wheel1A_3007"
+    },
+    {
+      "id": "polysurface2003_lamborghini_ivrewardrecycled_2024_wheel1a_3008",
+      "node": "polySurface2003_Lamborghini_IVRewardRecycled_2024_Wheel1A_3008"
+    },
+    {
+      "id": "polysurface2003_lamborghini_ivrewardrecycled_2024_wheel1a_3009",
+      "node": "polySurface2003_Lamborghini_IVRewardRecycled_2024_Wheel1A_3009"
+    },
+    {
+      "id": "polysurface2003_lamborghini_ivrewardrecycled_2024_wheel1a_3010",
+      "node": "polySurface2003_Lamborghini_IVRewardRecycled_2024_Wheel1A_3010"
+    },
+    {
+      "id": "carbon1m_geo_loda_lamborghini_ivrewardrecycled_2024carbon1m332",
+      "node": "Carbon1M_Geo_lodA_Lamborghini_IVRewardRecycled_2024Carbon1m332"
+    }
+  ]
+}
