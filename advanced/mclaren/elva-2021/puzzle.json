@@ -1,7 +1,7 @@
 {
   "meta": {
-    "brand": "Mclaren",
-    "model": "Elva-2021",
+    "brand": "mclaren",
+    "model": "elva-2021",
     "difficulty": "advanced",
     "pieceCount": 1
   },
@@ -10,9 +10,8 @@
   },
   "pieces": [
     {
-      "id": "body_kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma.150",
-      "node": "body_Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma.150"
+      "id": "body:kit0_paint_geo_lodabody_loda_mclaren_elva_2021paint_ma.150",
+      "node": "body:Kit0_Paint_Geo_lodABody_lodA_McLaren_Elva_2021Paint_Ma.150"
     }
   ]
-
 }
