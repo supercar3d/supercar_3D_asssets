@@ -13,10 +13,10 @@
       "files": ["cap"]
     },
     {
-      "id": "door",
-      "label": "Door",
+      "id": "sparkboard",
+      "label": "sparkboard",
       "icon": "💨",
-      "files": ["door_rf","door_lf"]
+      "files": ["sparkboard_rf","sparkboard_lf","sparkboard_rr", "sparkboard_lr"]
     },
     {
       "id": "exhaust",
@@ -68,3 +68,4 @@
     }
   ]
 }
+
