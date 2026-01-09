@@ -37,6 +37,12 @@
       "files": ["hood"]
     },
     {
+      "id": "light",
+      "label": "light",
+      "icon": "💡",
+      "files": ["headlamp"]
+    },
+    {
       "id": "sideskirt",
       "label": "Side Skirt",
       "icon": "➖",
@@ -80,6 +86,7 @@
     }
   ]
 }
+
 
 
 
