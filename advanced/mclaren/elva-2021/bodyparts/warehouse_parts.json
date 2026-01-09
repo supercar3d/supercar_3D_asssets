@@ -61,6 +61,12 @@
       "files": ["spoiler"]
     },
     {
+      "id": "steering",
+      "label": "Steering",
+      "icon": "🏁",
+      "files": ["steering"]
+    },
+    {
       "id": "wheels",
       "label": "Wheels",
       "icon": "☸",
@@ -74,5 +80,6 @@
     }
   ]
 }
+
 
 
