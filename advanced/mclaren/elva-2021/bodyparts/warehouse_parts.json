@@ -49,6 +49,12 @@
       "files": ["sidemirror_l", "sidemirror_r"]
     },
     {
+      "id": "sparkboard",
+      "label": "sparkboard",
+      "icon": "💨",
+      "files": ["sparkboard_rf","sparkboard_lf","sparkboard_rr", "sparkboard_lr"]
+    },
+    {
       "id": "spoiler",
       "label": "Spoiler",
       "icon": "🏁",
@@ -68,4 +74,5 @@
     }
   ]
 }
+
 
