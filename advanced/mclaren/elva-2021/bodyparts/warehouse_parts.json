@@ -28,7 +28,7 @@
       "id": "door",
       "label": "door",
       "icon": "🪞",
-      "files": ["door_r", "door_l"]
+      "files": ["door_rf", "door_lf"]
     },
     {
       "id": "hood",
@@ -80,6 +80,7 @@
     }
   ]
 }
+
 
 
 
