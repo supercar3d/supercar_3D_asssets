@@ -3,20 +3,14 @@
     {
       "id": "bumper",
       "label": "Bumper",
-      "icon": "🛡️",
+      "icon": "︵",
       "files": ["bumper_f", "bumper_r"]
     },
     {
       "id": "cap",
       "label": "Cap",
-      "icon": "⛽",
+      "icon": "🧢",
       "files": ["cap"]
-    },
-    {
-      "id": "sparkboard",
-      "label": "sparkboard",
-      "icon": "💨",
-      "files": ["sparkboard_rf","sparkboard_lf","sparkboard_rr", "sparkboard_lr"]
     },
     {
       "id": "exhaust",
@@ -40,7 +34,7 @@
       "id": "light",
       "label": "light",
       "icon": "💡",
-      "files": ["headlamp"]
+      "files": ["headlamp", "tail_light"]
     },
     {
       "id": "sideskirt",
@@ -57,19 +51,19 @@
     {
       "id": "sparkboard",
       "label": "sparkboard",
-      "icon": "💨",
+      "icon": "✨",
       "files": ["sparkboard_rf","sparkboard_lf","sparkboard_rr", "sparkboard_lr"]
     },
     {
       "id": "spoiler",
       "label": "Spoiler",
-      "icon": "🏁",
+      "icon": "👀",
       "files": ["spoiler"]
     },
     {
       "id": "steering",
       "label": "Steering",
-      "icon": "🏁",
+      "icon": "ꔮ",
       "files": ["steering"]
     },
     {
@@ -77,15 +71,10 @@
       "label": "Wheels",
       "icon": "☸",
       "files": ["wheels_lf", "wheels_lr", "wheels_rf", "wheels_rr"]
-    },
-    {
-      "id": "winshield",
-      "label": "Windshield",
-      "icon": "🪟",
-      "files": ["winshield", "rear_window"]
     }
   ]
 }
+
 
 
 
