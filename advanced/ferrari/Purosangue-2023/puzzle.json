@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "Purosangue-2023",
+    "difficulty": "advanced",
+    "pieceCount": 1
+  },
+  "asset": {
+    "model": "Purosangue-2023.glb"
+  },
+  "pieces": [
+    {
+      "id": "body_base",
+      "node": "body_base"
+    }
+  ]
+}
