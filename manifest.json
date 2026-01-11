@@ -43,44 +43,44 @@
     },
     "Medium": {
         "BMW": {
-            "M2": { "type": "github", "path": "basic/bmw/m2" },
-            "M3": { "type": "github", "path": "basic/bmw/m3" },
-            "M4": { "type": "github", "path": "basic/bmw/m4" },
-            "M5": { "type": "github", "path": "basic/bmw/m5" }
+            "M2": { "type": "github", "path": "medium/bmw/m2" },
+            "M3": { "type": "github", "path": "medium/bmw/m3" },
+            "M4": { "type": "github", "path": "medium/bmw/m4" },
+            "M5": { "type": "github", "path": "medium/bmw/m5" }
         },
         "Ferrari": {
-            "F40":       { "type": "github", "path": "basic/ferrari/f40" },
-            "F430":      { "type": "github", "path": "basic/ferrari/f430" },
-            "F488":      { "type": "github", "path": "basic/ferrari/f488" },
-            "F812":      { "type": "github", "path": "basic/ferrari/f812" },
-            "SF90":      { "type": "github", "path": "basic/ferrari/sf90" },
-            "Roma-2020": { "type": "github", "path": "basic/ferrari/roma-2020" },
-            "Sp38-2018": { "type": "github", "path": "basic/ferrari/sp38-2018" },
-            "Cilindri":  { "type": "github", "path": "basic/ferrari/cilindri" }
+            "F40":       { "type": "github", "path": "medium/ferrari/f40" },
+            "F430":      { "type": "github", "path": "medium/ferrari/f430" },
+            "F488":      { "type": "github", "path": "medium/ferrari/f488" },
+            "F812":      { "type": "github", "path": "medium/ferrari/f812" },
+            "SF90":      { "type": "github", "path": "medium/ferrari/sf90" },
+            "Roma-2020": { "type": "github", "path": "medium/ferrari/roma-2020" },
+            "Sp38-2018": { "type": "github", "path": "medium/ferrari/sp38-2018" },
+            "Cilindri":  { "type": "github", "path": "medium/ferrari/cilindri" }
         },
         "Lamborgini": {
-            "Temerario":    { "type": "github", "path": "basic/lamborgini/temerario" },
-            "ferzor":       { "type": "github", "path": "basic/lamborgini/ferzor" },
-            "Gallardo":     { "type": "github", "path": "basic/lamborgini/gallardo" },
-            "Aventador":    { "type": "github", "path": "basic/lamborgini/aventador" },
-            "Revuelto":     { "type": "github", "path": "basic/lamborgini/revuelto" },
-            "Huracan":      { "type": "github", "path": "basic/lamborgini/huracan" },
-            "Urus-2019":    { "type": "github", "path": "basic/lamborgini/urus-2019" },
-            "Urus-2025":    { "type": "github", "path": "basic/lamborgini/urus-2025" },
-            "Estoque-2008": { "type": "github", "path": "basic/lamborgini/estoque-2008" }
+            "Temerario":    { "type": "github", "path": "medium/lamborgini/temerario" },
+            "ferzor":       { "type": "github", "path": "medium/lamborgini/ferzor" },
+            "Gallardo":     { "type": "github", "path": "medium/lamborgini/gallardo" },
+            "Aventador":    { "type": "github", "path": "medium/lamborgini/aventador" },
+            "Revuelto":     { "type": "github", "path": "medium/lamborgini/revuelto" },
+            "Huracan":      { "type": "github", "path": "medium/lamborgini/huracan" },
+            "Urus-2019":    { "type": "github", "path": "medium/lamborgini/urus-2019" },
+            "Urus-2025":    { "type": "github", "path": "medium/lamborgini/urus-2025" },
+            "Estoque-2008": { "type": "github", "path": "medium/lamborgini/estoque-2008" }
         },
         "Mclaren": {
-            "GT-2020":      { "type": "github", "path": "basic/mclaren/gt-2020" },
-            "570s-2016":    { "type": "github", "path": "basic/mclaren/570s-2016" },
-            "Artura-2023":  { "type": "github", "path": "basic/mclaren/artura-2023" },
-            "Elva-2021":    { "type": "github", "path": "basic/mclaren/elva-2021" }
+            "GT-2020":      { "type": "github", "path": "medium/mclaren/gt-2020" },
+            "570s-2016":    { "type": "github", "path": "medium/mclaren/570s-2016" },
+            "Artura-2023":  { "type": "github", "path": "medium/mclaren/artura-2023" },
+            "Elva-2021":    { "type": "github", "path": "medium/mclaren/elva-2021" }
         },
         "Mercedes": {
-            "CLS":      { "type": "github", "path": "basic/mercedes/cls" },
-            "SL65":     { "type": "github", "path": "basic/mercedes/sl65" }
+            "CLS":      { "type": "github", "path": "medium/mercedes/cls" },
+            "SL65":     { "type": "github", "path": "medium/mercedes/sl65" }
         },
         "porsche": {
-        "Nine11": { "type": "github", "path": "basic/force/nine11" }
+        "Nine11": { "type": "github", "path": "medium/force/nine11" }
         },
     },
     "Advanced": {
