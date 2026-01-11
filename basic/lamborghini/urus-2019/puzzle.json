@@ -1,0 +1,1797 @@
+{
+  "meta": {
+    "brand": "Lamborghini",
+    "model": "Urus-2019",
+    "difficulty": "easy",
+    "pieceCount": 446
+  },
+  "asset": {
+    "model": "urus.glb"
+  },
+  "pieces": [
+    {
+      "id": "badge_geo_loda_lamborghini_urusrewardrecycled_2018badgea_materi",
+      "node": "Badge_Geo_lodA_Lamborghini_UrusRewardRecycled_2018BadgeA_Materi"
+    },
+    {
+      "id": "base_geo_loda_lamborghini_urusrewardrecycled_2018base_material_",
+      "node": "Base_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Base_Material_"
+    },
+    {
+      "id": "carbon1m_geo_loda_lamborghini_urusrewardrecycled_2018carbon1m_m",
+      "node": "Carbon1M_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Carbon1M_M"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_urusrewardrecycled_2018coloured_m",
+      "node": "Coloured_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Coloured_M"
+    },
+    {
+      "id": "engine_geo_loda_lamborghini_urusrewardrecycled_2018enginea_mate",
+      "node": "Engine_Geo_lodA_Lamborghini_UrusRewardRecycled_2018EngineA_Mate"
+    },
+    {
+      "id": "grille1_geo_loda_lamborghini_urusrewardrecycled_2018grille1a_ma",
+      "node": "Grille1_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille1A_Ma"
+    },
+    {
+      "id": "grille2_geo_loda_lamborghini_urusrewardrecycled_2018grille2a_ma",
+      "node": "Grille2_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille2A_Ma"
+    },
+    {
+      "id": "grille3_geo_loda_lamborghini_urusrewardrecycled_2018grille3a_ma",
+      "node": "Grille3_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille3A_Ma"
+    },
+    {
+      "id": "grille4_geo_loda_lamborghini_urusrewardrecycled_2018grille4a_ma",
+      "node": "Grille4_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille4A_Ma"
+    },
+    {
+      "id": "grille6_geo_loda_lamborghini_urusrewardrecycled_2018grille6a_ma",
+      "node": "Grille6_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille6A_Ma"
+    },
+    {
+      "id": "grille7_geo_loda_lamborghini_urusrewardrecycled_2018grille7a_ma",
+      "node": "Grille7_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille7A_Ma"
+    },
+    {
+      "id": "grille8_geo_loda_lamborghini_urusrewardrecycled_2018grille8a_ma",
+      "node": "Grille8_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille8A_Ma"
+    },
+    {
+      "id": "grille9_geo_loda_lamborghini_urusrewardrecycled_2018grille9a_ma",
+      "node": "Grille9_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille9A_Ma"
+    },
+    {
+      "id": "kit1_grille5_geo_loda_lamborghini_urusrewardrecycled_2018grille",
+      "node": "Kit1_Grille5_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Grille"
+    },
+    {
+      "id": "kit1_interior_geo_loda_lamborghini_urusrewardrecycled_2018inter",
+      "node": "Kit1_Interior_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Inter"
+    },
+    {
+      "id": "kit1_interiorcolourzone_geo_loda_lamborghini_urusrewardrecycled",
+      "node": "Kit1_InteriorColourZone_Geo_lodA_Lamborghini_UrusRewardRecycled"
+    },
+    {
+      "id": "kit1_interiortilling_geo_loda_lamborghini_urusrewardrecycled_20",
+      "node": "Kit1_InteriorTilling_Geo_lodA_Lamborghini_UrusRewardRecycled_20"
+    },
+    {
+      "id": "kit1_interiortillingcolourzone_geo_loda_lamborghini_urusrewardr",
+      "node": "Kit1_InteriorTillingColourZone_Geo_lodA_Lamborghini_UrusRewardR"
+    },
+    {
+      "id": "light_geo_loda_lamborghini_urusrewardrecycled_2018lighta_materi",
+      "node": "Light_Geo_lodA_Lamborghini_UrusRewardRecycled_2018LightA_Materi"
+    },
+    {
+      "id": "lightemissive_geo_loda_lamborghini_urusrewardrecycled_2018light",
+      "node": "LightEmissive_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Light"
+    },
+    {
+      "id": "manufacturerplate_geo_loda_lamborghini_urusrewardrecycled_2018m",
+      "node": "ManufacturerPlate_Geo_lodA_Lamborghini_UrusRewardRecycled_2018M"
+    },
+    {
+      "id": "seatbelt_geo_loda_lamborghini_urusrewardrecycled_2018seatbelt_m",
+      "node": "SeatBelt_Geo_lodA_Lamborghini_UrusRewardRecycled_2018SeatBelt_M"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_urusrewardrecycled_2018window_mater",
+      "node": "Window_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Window_Mater"
+    },
+    {
+      "id": "windowinside_geo_loda_lamborghini_urusrewardrecycled_2018window",
+      "node": "WindowInside_Geo_lodA_Lamborghini_UrusRewardRecycled_2018Window"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_lamborghini_urusrewardrecycled_201",
+      "node": "body:Paint_Geo_lodABody_lodA_Lamborghini_UrusRewardRecycled_201"
+    },
+    {
+      "id": "body:paint_geo_lodabody_loda_phong1_0",
+      "node": "body:Paint_Geo_lodABody_lodA_phong1_0"
+    },
+    {
+      "id": "polysurface1_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface1_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface2_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface2_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface3_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface3_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface4_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface4_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface5_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface5_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface6_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface6_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface7_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface7_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface8_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface8_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface9_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3dw",
+      "node": "polySurface9_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface10_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface10_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface11_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface11_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface12_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface12_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface13_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface13_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface14_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface14_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface15_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface15_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface16_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface16_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface17_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface17_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface18_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface18_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface19_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface19_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface20_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface20_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface21_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface21_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface22_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface22_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface23_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface23_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface24_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface24_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface25_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface25_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface26_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface26_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface27_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface27_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface28_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface28_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface29_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface29_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface30_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface30_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface31_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface31_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface32_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface32_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface33_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface33_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface34_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface34_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface35_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface35_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface36_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface36_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface37_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface37_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface38_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface38_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface39_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface39_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface40_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface40_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface41_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface41_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface42_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface42_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface43_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface43_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface44_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface44_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface45_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface45_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface46_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface46_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface47_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface47_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface48_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface48_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface49_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface49_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface50_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface50_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface51_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface51_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface52_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface52_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface53_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface53_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface54_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface54_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface55_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface55_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface56_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface56_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface57_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface57_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface58_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface58_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface59_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface59_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface60_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface60_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface61_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface61_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface62_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface62_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface63_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface63_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface64_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface64_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface65_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface65_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface66_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface66_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface67_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface67_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface68_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface68_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface69_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface69_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface70_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface70_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface71_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface71_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface72_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface72_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface73_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface73_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface74_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface74_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface75_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface75_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface76_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface76_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface77_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface77_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface78_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface78_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface79_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface79_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface80_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface80_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface81_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface81_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface82_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface82_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface83_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface83_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface84_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface84_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface85_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface85_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface86_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface86_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface87_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface87_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface88_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface88_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface89_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface89_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface90_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface90_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface91_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface91_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface92_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface92_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface93_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface93_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface94_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface94_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface95_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface95_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface96_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface96_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface97_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface97_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface98_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface98_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface99_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3d",
+      "node": "polySurface99_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3D"
+    },
+    {
+      "id": "polysurface100_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface100_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface101_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface101_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface102_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface102_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface103_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface103_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface104_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface104_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface105_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface105_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface106_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface106_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface107_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface107_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface108_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface108_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface109_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface109_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface110_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface110_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface111_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface111_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface112_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface112_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface113_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface113_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface114_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface114_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface115_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface115_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface116_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface116_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface117_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface117_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface118_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface118_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface119_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface119_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface120_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface120_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface121_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface121_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface122_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface122_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface123_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface123_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface124_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface124_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface125_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface125_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface126_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface126_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface127_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface127_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface128_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface128_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface129_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface129_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface130_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface130_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface131_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface131_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface132_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface132_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface133_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface133_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface134_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface134_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface135_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface135_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface136_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface136_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface137_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface137_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface138_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface138_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface139_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface139_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface140_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface140_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface141_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface141_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface142_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface142_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface143_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface143_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface144_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface144_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface145_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface145_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface146_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface146_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface147_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface147_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface148_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface148_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface149_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface149_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface150_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface150_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface151_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface151_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface152_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface152_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface153_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface153_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface154_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface154_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface155_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface155_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface156_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface156_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface157_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface157_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface158_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface158_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface159_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface159_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface160_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface160_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface161_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface161_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface162_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface162_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface163_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface163_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface164_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface164_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface165_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface165_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface166_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface166_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface167_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface167_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface168_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface168_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface169_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface169_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface170_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface170_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface171_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface171_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface172_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface172_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface173_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface173_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface174_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface174_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface175_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface175_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface176_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface176_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface177_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface177_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface178_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface178_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface179_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface179_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface180_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface180_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface181_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface181_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface182_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface182_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface183_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface183_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface184_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface184_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface185_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface185_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface186_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface186_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface187_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface187_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface188_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface188_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface189_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface189_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface190_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface190_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface191_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface191_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface192_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface192_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface193_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface193_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface194_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface194_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface195_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface195_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface196_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface196_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface197_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface197_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface198_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface198_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface199_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface199_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface200_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface200_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface201_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface201_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface202_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface202_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface203_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface203_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface204_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface204_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface205_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface205_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface206_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface206_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface207_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface207_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface208_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface208_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface209_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface209_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface210_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface210_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface211_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface211_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface212_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface212_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface213_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface213_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface214_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface214_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface215_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface215_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface216_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface216_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface217_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface217_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface218_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface218_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface219_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface219_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface220_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface220_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface221_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface221_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface222_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface222_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface223_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface223_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface224_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface224_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface225_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface225_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface226_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface226_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface227_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface227_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface228_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface228_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface229_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface229_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface230_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface230_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface231_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface231_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface232_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface232_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface233_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface233_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface234_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface234_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface235_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface235_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface236_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface236_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface237_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface237_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface238_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface238_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface239_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface239_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface240_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface240_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface241_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface241_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface242_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface242_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface243_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface243_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface244_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface244_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface245_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface245_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface246_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface246_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface247_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface247_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface248_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface248_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface249_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface249_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface250_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface250_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface251_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface251_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface252_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface252_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface253_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface253_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface254_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface254_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface255_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface255_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface256_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface256_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface257_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface257_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface258_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface258_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface259_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface259_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface260_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface260_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface261_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface261_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface262_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface262_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface263_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface263_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface264_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface264_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface265_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface265_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface266_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface266_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface267_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface267_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface268_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface268_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface269_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface269_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface270_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface270_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface271_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface271_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface272_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface272_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface273_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface273_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface274_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface274_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface275_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface275_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface276_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface276_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface277_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface277_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface278_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface278_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface279_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface279_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface280_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface280_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface281_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface281_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface282_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface282_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface283_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface283_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface284_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface284_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface285_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface285_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface286_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface286_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface287_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface287_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface288_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface288_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface289_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface289_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface290_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface290_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface291_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface291_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface292_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface292_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface293_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface293_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface294_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface294_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface295_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface295_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface296_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface296_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface297_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface297_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface298_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface298_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface299_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface299_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface300_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface300_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface301_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface301_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface302_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface302_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface303_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface303_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface304_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface304_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface305_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface305_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface306_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface306_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface307_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface307_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface308_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface308_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface309_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface309_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface310_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface310_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface311_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface311_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface312_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface312_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface313_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface313_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface314_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface314_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface315_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface315_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface316_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface316_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface317_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface317_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface318_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface318_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface319_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface319_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface320_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface320_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface321_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface321_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface322_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface322_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface323_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface323_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface324_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface324_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface325_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface325_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface326_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface326_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface327_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface327_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface328_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface328_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface329_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface329_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface330_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface330_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface331_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface331_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface332_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface332_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface333_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface333_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface334_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface334_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface335_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface335_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface336_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface336_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface337_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface337_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface338_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface338_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface339_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface339_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface340_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface340_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface341_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface341_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface342_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface342_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface343_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface343_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface344_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface344_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface345_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface345_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface346_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface346_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface347_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface347_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface348_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface348_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface349_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface349_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface350_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface350_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface351_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface351_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface352_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface352_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface353_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface353_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface354_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface354_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface355_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface355_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface356_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface356_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface357_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface357_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface358_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface358_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface359_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface359_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface360_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface360_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface361_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface361_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface362_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface362_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface363_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface363_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface364_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface364_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface365_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface365_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface366_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface366_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface367_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface367_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface368_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface368_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface369_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface369_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface370_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface370_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface371_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface371_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface372_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface372_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface373_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface373_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface374_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface374_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface375_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface375_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface376_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface376_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface377_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface377_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface378_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface378_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface379_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface379_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface380_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface380_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface381_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface381_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface382_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface382_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface383_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface383_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface384_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface384_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface385_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface385_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface386_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface386_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface387_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface387_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface388_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface388_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface389_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface389_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface390_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface390_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface391_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface391_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface392_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface392_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface393_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface393_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface394_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface394_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface395_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface395_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface396_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface396_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface397_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface397_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface398_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface398_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface399_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface399_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface400_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface400_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface401_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface401_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface402_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface402_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface403_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface403_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface404_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface404_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface405_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface405_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface406_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface406_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface407_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface407_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface408_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface408_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface409_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface409_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface410_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface410_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface411_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface411_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface412_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface412_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface413_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface413_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface414_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface414_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface415_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface415_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "polysurface416_lamborghini_urusrewardrecycled_2018_wheel1a_3d_3",
+      "node": "polySurface416_Lamborghini_UrusRewardRecycled_2018_Wheel1A_3D_3"
+    },
+    {
+      "id": "calip:caliperlfcalipersgroup1_standardsurface1_0",
+      "node": "calip:CaliperLFCalipersgroup1_standardSurface1_0"
+    },
+    {
+      "id": "calip:calipersgroup1caliperlr_standardsurface1_0",
+      "node": "calip:Calipersgroup1CaliperLR_standardSurface1_0"
+    },
+    {
+      "id": "calip:calipersgroup1caliperrf_standardsurface1_0",
+      "node": "calip:Calipersgroup1CaliperRF_standardSurface1_0"
+    },
+    {
+      "id": "calip:calipersgroup1caliperrr_standardsurface1_0",
+      "node": "calip:Calipersgroup1CaliperRR_standardSurface1_0"
+    }
+  ]
+}

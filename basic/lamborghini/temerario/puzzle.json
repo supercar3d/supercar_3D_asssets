@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "brand": "Lamborgini",
+    "model": "temerario",
+    "difficulty": "easy",
+    "pieceCount": 8
+  },
+  "asset": {
+    "model": "temerario.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_70",
+      "node": "Object_70"
+    },
+    {
+      "id": "object_155",
+      "node": "Object_155"
+    },
+    {
+      "id": "object_233",
+      "node": "Object_233"
+    },
+    {
+      "id": "object_267",
+      "node": "Object_267"
+    },
+    {
+      "id": "object_279",
+      "node": "Object_279"
+    },
+    {
+      "id": "object_339",
+      "node": "Object_339"
+    },
+    {
+      "id": "object_405",
+      "node": "Object_405"
+    },
+    {
+      "id": "object_451",
+      "node": "Object_451"
+    }
+  ]
+}
