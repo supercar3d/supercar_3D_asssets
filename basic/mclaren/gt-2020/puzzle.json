@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "brand": "McLaren",
+    "model": "GT-2020",
+    "difficulty": "easy",
+    "pieceCount": 26
+  },
+  "asset": {
+    "model": "gt-2020.glb"
+  },
+  "pieces": [
+    {
+      "id": "sm_brake_fl_0000_001_sm_brake_fl_0000_mat_tire_brake_mat_ti",
+      "node": "SM_Brake_FL_0000_001_SM_Brake_FL_0000_MAT_Tire_Brake_MAT_Ti"
+    },
+    {
+      "id": "sm_hub_l_0000_001_sm_hub_l_0000_mat_details_hub_mat_details",
+      "node": "SM_Hub_L_0000_001_SM_Hub_L_0000_MAT_Details_Hub_MAT_Details"
+    },
+    {
+      "id": "anc_door_l_01_mat_mclaren_gt_base1_0",
+      "node": "ANC_Door_L_01_MAT_Mclaren_GT_Base1_0"
+    },
+    {
+      "id": "anc_door_r_02_mat_mclaren_gt_base1_0",
+      "node": "ANC_Door_R_02_MAT_Mclaren_GT_Base1_0"
+    },
+    {
+      "id": "anc_door_l_02_mat_mclaren_gt_base1_0",
+      "node": "ANC_Door_L_02_MAT_Mclaren_GT_Base1_0"
+    },
+    {
+      "id": "anc_door_r_03_mat_mclaren_gt_base1_0",
+      "node": "ANC_Door_R_03_MAT_Mclaren_GT_Base1_0"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base_00",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base_00"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base_0",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base_0"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base_",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base_"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base001",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base001"
+    },
+    {
+      "id": "sm_hood_0000_001_sm_hood_0000_mat_mclaren_gt_base_002_mat_m",
+      "node": "SM_Hood_0000_001_SM_Hood_0000_MAT_Mclaren_GT_Base_002_MAT_M"
+    },
+    {
+      "id": "sm_hood_0000_001_sm_hood_0000_mat_mclaren_gt_base_003_mat_d",
+      "node": "SM_Hood_0000_001_SM_Hood_0000_MAT_Mclaren_GT_Base_003_MAT_D"
+    },
+    {
+      "id": "anc_door_l_12_mat_mclaren_gt_base1_0",
+      "node": "ANC_Door_L_12_MAT_Mclaren_GT_Base1_0"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_004_m",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_004_M"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_005_m",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_005_M"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_006_m",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_006_M"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_009_m",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_009_M"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_011_m",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_011_M"
+    },
+    {
+      "id": "wcombined3dwheel_3dwheel_front_linstance1_src4combined_wh129",
+      "node": "wCombined3DWheel_3DWheel_Front_LInstance1_Src4Combined_Wh129"
+    },
+    {
+      "id": "wcombined3dwheel_3dwheel_front_linstance1_src4combined_wh165",
+      "node": "wCombined3DWheel_3DWheel_Front_LInstance1_Src4Combined_Wh165"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_008_",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_008_"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_0",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_0"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base004",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base004"
+    },
+    {
+      "id": "sm_frontkit_0000_001_sm_frontkit_0000_mat_mclaren_gt_base005",
+      "node": "SM_FrontKit_0000_001_SM_FrontKit_0000_MAT_Mclaren_GT_Base005"
+    },
+    {
+      "id": "sm_rearkit_0000_001_sm_rearkit_0000_mat_mclaren_gt_base_0002",
+      "node": "SM_RearKit_0000_001_SM_RearKit_0000_MAT_Mclaren_GT_Base_0002"
+    }
+  ]
+}
