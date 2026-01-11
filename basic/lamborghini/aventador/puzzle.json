@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "brand": "Lamborgini",
+    "model": "Aventador",
+    "difficulty": "easy",
+    "pieceCount": 51
+  },
+  "asset": {
+    "model": "aventador.glb"
+  },
+  "pieces": [
+    {
+      "id": "door_carbon_0",
+      "node": "Door_Carbon_0"
+    },
+    {
+      "id": "door_carbon_0001",
+      "node": "Door_Carbon_0001"
+    },
+    {
+      "id": "door_carbon_0002",
+      "node": "Door_Carbon_0002"
+    },
+    {
+      "id": "door_carbon_0003",
+      "node": "Door_Carbon_0003"
+    },
+    {
+      "id": "door_carbon_0004",
+      "node": "Door_Carbon_0004"
+    },
+    {
+      "id": "door_carbon_0005",
+      "node": "Door_Carbon_0005"
+    },
+    {
+      "id": "door_carbon_0006",
+      "node": "Door_Carbon_0006"
+    },
+    {
+      "id": "door_carbon_0007",
+      "node": "Door_Carbon_0007"
+    },
+    {
+      "id": "door_carbon_0008",
+      "node": "Door_Carbon_0008"
+    },
+    {
+      "id": "door_carbon_0009",
+      "node": "Door_Carbon_0009"
+    },
+    {
+      "id": "door_carbon_0010",
+      "node": "Door_Carbon_0010"
+    },
+    {
+      "id": "door_carbon_0011",
+      "node": "Door_Carbon_0011"
+    },
+    {
+      "id": "door_carbon_0012",
+      "node": "Door_Carbon_0012"
+    },
+    {
+      "id": "door_carbon_0013",
+      "node": "Door_Carbon_0013"
+    },
+    {
+      "id": "door_carbon_0014",
+      "node": "Door_Carbon_0014"
+    },
+    {
+      "id": "door_carbon_0015",
+      "node": "Door_Carbon_0015"
+    },
+    {
+      "id": "door_carbon_0016",
+      "node": "Door_Carbon_0016"
+    },
+    {
+      "id": "door_carbon_0017",
+      "node": "Door_Carbon_0017"
+    },
+    {
+      "id": "door_carbon_0018",
+      "node": "Door_Carbon_0018"
+    },
+    {
+      "id": "door_carbon_0019",
+      "node": "Door_Carbon_0019"
+    },
+    {
+      "id": "door_carbon_0020",
+      "node": "Door_Carbon_0020"
+    },
+    {
+      "id": "door_carbon_0021",
+      "node": "Door_Carbon_0021"
+    },
+    {
+      "id": "door_carbon_0022",
+      "node": "Door_Carbon_0022"
+    },
+    {
+      "id": "door_carbon_0023",
+      "node": "Door_Carbon_0023"
+    },
+    {
+      "id": "door_carbon_0024",
+      "node": "Door_Carbon_0024"
+    },
+    {
+      "id": "door_carbon_0025",
+      "node": "Door_Carbon_0025"
+    },
+    {
+      "id": "door_carbon_0026",
+      "node": "Door_Carbon_0026"
+    },
+    {
+      "id": "door_carbon_0027",
+      "node": "Door_Carbon_0027"
+    },
+    {
+      "id": "door_carbon_0028",
+      "node": "Door_Carbon_0028"
+    },
+    {
+      "id": "door_carbon_0029",
+      "node": "Door_Carbon_0029"
+    },
+    {
+      "id": "door_carbon_0030",
+      "node": "Door_Carbon_0030"
+    },
+    {
+      "id": "door_carbon_0031",
+      "node": "Door_Carbon_0031"
+    },
+    {
+      "id": "door_carbon_0032",
+      "node": "Door_Carbon_0032"
+    },
+    {
+      "id": "door_carbon_0033",
+      "node": "Door_Carbon_0033"
+    },
+    {
+      "id": "door_carbon_0034",
+      "node": "Door_Carbon_0034"
+    },
+    {
+      "id": "door_carbon_0035",
+      "node": "Door_Carbon_0035"
+    },
+    {
+      "id": "door_carbon_0036",
+      "node": "Door_Carbon_0036"
+    },
+    {
+      "id": "door_carbon_0037",
+      "node": "Door_Carbon_0037"
+    },
+    {
+      "id": "door_carbon_0038",
+      "node": "Door_Carbon_0038"
+    },
+    {
+      "id": "door_carbon_0039",
+      "node": "Door_Carbon_0039"
+    },
+    {
+      "id": "door_carbon_0040",
+      "node": "Door_Carbon_0040"
+    },
+    {
+      "id": "door_carbon_0041",
+      "node": "Door_Carbon_0041"
+    },
+    {
+      "id": "door_carbon_0042",
+      "node": "Door_Carbon_0042"
+    },
+    {
+      "id": "door_carbon_0043",
+      "node": "Door_Carbon_0043"
+    },
+    {
+      "id": "door_carbon_0044",
+      "node": "Door_Carbon_0044"
+    },
+    {
+      "id": "door_carbon_0045",
+      "node": "Door_Carbon_0045"
+    },
+    {
+      "id": "door_carbon_0046",
+      "node": "Door_Carbon_0046"
+    },
+    {
+      "id": "door_carbon_0047",
+      "node": "Door_Carbon_0047"
+    },
+    {
+      "id": "door_carbon_0048",
+      "node": "Door_Carbon_0048"
+    },
+    {
+      "id": "door_carbon_0049",
+      "node": "Door_Carbon_0049"
+    },
+    {
+      "id": "door_carbon_0056",
+      "node": "Door_Carbon_0056"
+    }
+  ]
+}

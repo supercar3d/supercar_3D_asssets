@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "brand": "Lamborgini",
+    "model": "Estoque-2008",
+    "difficulty": "easy",
+    "pieceCount": 64
+  },
+  "asset": {
+    "model": "Estoque-2008.glb"
+  },
+  "pieces": [
+    {
+      "id": "geometry_kit00_left_headlight_a_geometry_hlchrome_headlight_lef",
+      "node": "GEOMETRY_KIT00_LEFT_HEADLIGHT_A_GEOMETRY_hlchrome_headlight_lef"
+    },
+    {
+      "id": "geometry_kit00_left_headlight_a_front_light_0",
+      "node": "GEOMETRY_KIT00_LEFT_HEADLIGHT_A_FRONT_LIGHT_0"
+    },
+    {
+      "id": "geometry_kit00_left_headlight_a_misc_0",
+      "node": "GEOMETRY_KIT00_LEFT_HEADLIGHT_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_front_left_window_a_geometry_windshield_window_r",
+      "node": "GEOMETRY_KIT00_FRONT_LEFT_WINDOW_A_GEOMETRY_windshield_window_r"
+    },
+    {
+      "id": "geometry_kit00_left_side_mirror_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_LEFT_SIDE_MIRROR_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_left_side_mirror_a_misc_0",
+      "node": "GEOMETRY_KIT00_LEFT_SIDE_MIRROR_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_rear_bumper_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_REAR_BUMPER_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_rear_bumper_a_misc_0",
+      "node": "GEOMETRY_KIT00_REAR_BUMPER_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_rear_rotor_a_geometry_brakedisc_rotor3_0",
+      "node": "GEOMETRY_KIT00_REAR_ROTOR_A_GEOMETRY_brakedisc_rotor3_0"
+    },
+    {
+      "id": "geometry_kit00_front_brake_a_misc_0",
+      "node": "GEOMETRY_KIT00_FRONT_BRAKE_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_right_brakelight_glass_a_geometry_windshield_win",
+      "node": "GEOMETRY_KIT00_RIGHT_BRAKELIGHT_GLASS_A_GEOMETRY_windshield_win"
+    },
+    {
+      "id": "geometry_kit00_interior_a_geometry_brakelight_brakelight_right1",
+      "node": "GEOMETRY_KIT00_INTERIOR_A_GEOMETRY_brakelight_brakelight_right1"
+    },
+    {
+      "id": "geometry_kit00_interior_a_geometry_interior_interior1_0",
+      "node": "GEOMETRY_KIT00_INTERIOR_A_GEOMETRY_interior_interior1_0"
+    },
+    {
+      "id": "geometry_kit00_right_headlight_glass_a_geometry_windshield_wind",
+      "node": "GEOMETRY_KIT00_RIGHT_HEADLIGHT_GLASS_A_GEOMETRY_windshield_wind"
+    },
+    {
+      "id": "geometry_kitw01_door_right_a_carpaint_0",
+      "node": "GEOMETRY_KITW01_DOOR_RIGHT_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kitw01_door_right_a_misc_0",
+      "node": "GEOMETRY_KITW01_DOOR_RIGHT_A_MISC_0"
+    },
+    {
+      "id": "geometry_kitw01_door_right_a_badges_0",
+      "node": "GEOMETRY_KITW01_DOOR_RIGHT_A_BADGES_0"
+    },
+    {
+      "id": "geometry_kit00_rear_brake_a_misc_0",
+      "node": "GEOMETRY_KIT00_REAR_BRAKE_A_MISC_0"
+    },
+    {
+      "id": "geometry_base_a_carpaint_0",
+      "node": "GEOMETRY_BASE_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_base_a_misc_0",
+      "node": "GEOMETRY_BASE_A_MISC_0"
+    },
+    {
+      "id": "geometry_base_a_badges_0",
+      "node": "GEOMETRY_BASE_A_BADGES_0"
+    },
+    {
+      "id": "geometry_kit00_left_brakelight_a_geometry_brakelight_brakelight",
+      "node": "GEOMETRY_KIT00_LEFT_BRAKELIGHT_A_GEOMETRY_brakelight_brakelight"
+    },
+    {
+      "id": "geometry_kit00_right_headlight_a_geometry_hlchrome_headlight_le",
+      "node": "GEOMETRY_KIT00_RIGHT_HEADLIGHT_A_GEOMETRY_hlchrome_headlight_le"
+    },
+    {
+      "id": "geometry_kit00_right_headlight_a_front_light_0",
+      "node": "GEOMETRY_KIT00_RIGHT_HEADLIGHT_A_FRONT_LIGHT_0"
+    },
+    {
+      "id": "geometry_kit00_right_headlight_a_misc_0",
+      "node": "GEOMETRY_KIT00_RIGHT_HEADLIGHT_A_MISC_0"
+    },
+    {
+      "id": "geometry_kitw01_door_left_a_carpaint_0",
+      "node": "GEOMETRY_KITW01_DOOR_LEFT_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kitw01_door_left_a_misc_0",
+      "node": "GEOMETRY_KITW01_DOOR_LEFT_A_MISC_0"
+    },
+    {
+      "id": "geometry_kitw01_door_left_a_badges_0",
+      "node": "GEOMETRY_KITW01_DOOR_LEFT_A_BADGES_0"
+    },
+    {
+      "id": "geometry_kit00_body_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_BODY_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_body_a_misc_0",
+      "node": "GEOMETRY_KIT00_BODY_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_body_a_chassis_0",
+      "node": "GEOMETRY_KIT00_BODY_A_chassis_0"
+    },
+    {
+      "id": "geometry_kit00_body_a_badges_0",
+      "node": "GEOMETRY_KIT00_BODY_A_BADGES_0"
+    },
+    {
+      "id": "geometry_kit00_right_side_mirror_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_RIGHT_SIDE_MIRROR_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_right_side_mirror_a_misc_0",
+      "node": "GEOMETRY_KIT00_RIGHT_SIDE_MIRROR_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_hood_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_HOOD_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_hood_a_misc_0",
+      "node": "GEOMETRY_KIT00_HOOD_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_rear_left_window_a_geometry_windshield_window_ri",
+      "node": "GEOMETRY_KIT00_REAR_LEFT_WINDOW_A_GEOMETRY_windshield_window_ri"
+    },
+    {
+      "id": "geometry_kit00_skirt_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_SKIRT_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_skirt_a_chassis_0",
+      "node": "GEOMETRY_KIT00_SKIRT_A_chassis_0"
+    },
+    {
+      "id": "geometry_kit00_front_window_a_geometry_windshield_window_right_",
+      "node": "GEOMETRY_KIT00_FRONT_WINDOW_A_GEOMETRY_windshield_window_right_"
+    },
+    {
+      "id": "geometry_kit00_front_window_a_geometry_glass_surr_0",
+      "node": "GEOMETRY_KIT00_FRONT_WINDOW_A_GEOMETRY_Glass_Surr_0"
+    },
+    {
+      "id": "geometry_kit00_right_brakelight_a_geometry_brakelight_brakeligh",
+      "node": "GEOMETRY_KIT00_RIGHT_BRAKELIGHT_A_GEOMETRY_brakelight_brakeligh"
+    },
+    {
+      "id": "geometry_kit00_exhaust_a_misc_0",
+      "node": "GEOMETRY_KIT00_EXHAUST_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_exhaust_a_chassis_0",
+      "node": "GEOMETRY_KIT00_EXHAUST_A_chassis_0"
+    },
+    {
+      "id": "geometry_kit00_exhaust_a_geometry_aluminum_misc1_0",
+      "node": "GEOMETRY_KIT00_EXHAUST_A_GEOMETRY_aluminum_misc1_0"
+    },
+    {
+      "id": "geometry_kit00_front_right_window_a_geometry_windshield_window_",
+      "node": "GEOMETRY_KIT00_FRONT_RIGHT_WINDOW_A_GEOMETRY_windshield_window_"
+    },
+    {
+      "id": "geometry_kit00_left_headlight_glass_a_geometry_windshield_windo",
+      "node": "GEOMETRY_KIT00_LEFT_HEADLIGHT_GLASS_A_GEOMETRY_windshield_windo"
+    },
+    {
+      "id": "geometry_kit00_left_brakelight_glass_a_geometry_windshield_wind",
+      "node": "GEOMETRY_KIT00_LEFT_BRAKELIGHT_GLASS_A_GEOMETRY_windshield_wind"
+    },
+    {
+      "id": "geometry_kit00_front_tire_a_rim_0",
+      "node": "GEOMETRY_KIT00_FRONT_TIRE_A_RIM_0"
+    },
+    {
+      "id": "geometry_kit00_front_tire_a_geometry_rubber_tire_style02_0",
+      "node": "GEOMETRY_KIT00_FRONT_TIRE_A_GEOMETRY_rubber_tire_style02_0"
+    },
+    {
+      "id": "geometry_kit00_doorline_a_geometry_doorline_doorline1_0",
+      "node": "GEOMETRY_KIT00_DOORLINE_A_GEOMETRY_doorline_doorline1_0"
+    },
+    {
+      "id": "geometry_kit00_rear_right_window_a_geometry_windshield_window_r",
+      "node": "GEOMETRY_KIT00_REAR_RIGHT_WINDOW_A_GEOMETRY_windshield_window_r"
+    },
+    {
+      "id": "geometry_kit00_rear_window_a_geometry_glass_surr_0",
+      "node": "GEOMETRY_KIT00_REAR_WINDOW_A_GEOMETRY_Glass_Surr_0"
+    },
+    {
+      "id": "geometry_kit00_rear_window_a_geometry_windshield_window_right_r",
+      "node": "GEOMETRY_KIT00_REAR_WINDOW_A_GEOMETRY_windshield_window_right_r"
+    },
+    {
+      "id": "geometry_kit00_front_bumper_a_carpaint_0",
+      "node": "GEOMETRY_KIT00_FRONT_BUMPER_A_CARPAINT_0"
+    },
+    {
+      "id": "geometry_kit00_front_bumper_a_misc_0",
+      "node": "GEOMETRY_KIT00_FRONT_BUMPER_A_MISC_0"
+    },
+    {
+      "id": "geometry_kit00_front_bumper_badging_set_a_badges_0",
+      "node": "GEOMETRY_KIT00_FRONT_BUMPER_BADGING_SET_A_BADGES_0"
+    },
+    {
+      "id": "geometry_kit00_front_rotor_a_geometry_brakedisc_rotor3_0",
+      "node": "GEOMETRY_KIT00_FRONT_ROTOR_A_GEOMETRY_brakedisc_rotor3_0"
+    },
+    {
+      "id": "kit00_front_tire_a_rim_0",
+      "node": "KIT00_FRONT_TIRE_A_RIM_0"
+    },
+    {
+      "id": "kit00_front_tire_a_geometry_rubber_tire_style02_0",
+      "node": "KIT00_FRONT_TIRE_A_GEOMETRY_rubber_tire_style02_0"
+    },
+    {
+      "id": "kit00_front_tire_a1_rim_0",
+      "node": "KIT00_FRONT_TIRE_A1_RIM_0"
+    },
+    {
+      "id": "kit00_front_tire_a1_geometry_rubber_tire_style02_0",
+      "node": "KIT00_FRONT_TIRE_A1_GEOMETRY_rubber_tire_style02_0"
+    },
+    {
+      "id": "kit00_front_tire_a2_rim_0",
+      "node": "KIT00_FRONT_TIRE_A2_RIM_0"
+    },
+    {
+      "id": "kit00_front_tire_a2_geometry_rubber_tire_style02_0",
+      "node": "KIT00_FRONT_TIRE_A2_GEOMETRY_rubber_tire_style02_0"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "brand": "Toyota",
+    "series": "Camry",
+    "model": "car-puzzle-assets",
+    "difficulty": "easy",
+    "pieceCount": 7
+  },
+  "asset": {
+    "model": "car-puzzle-assets.glb"
+  },
+  "pieces": [
+    {
+      "id": "terzo_wire_000000000_0",
+      "node": "Terzo_wire_000000000_0"
+    },
+    {
+      "id": "terzo_wire_000000000_0001",
+      "node": "terzo_wire_000000000_0001"
+    },
+    {
+      "id": "terzo_metal_0",
+      "node": "Terzo_metal_0"
+    },
+    {
+      "id": "terzo_redlight_0",
+      "node": "Terzo_redlight_0"
+    },
+    {
+      "id": "terzo_glass wheel_0",
+      "node": "Terzo_glass wheel_0"
+    },
+    {
+      "id": "bkl_wire_000000000_0",
+      "node": "BKL_wire_000000000_0"
+    },
+    {
+      "id": "ftr_strips_0",
+      "node": "FTR_Strips_0"
+    }
+  ]
+}
