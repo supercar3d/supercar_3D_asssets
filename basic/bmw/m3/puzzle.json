@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "brand": "BMW",
+    "model": "M3",
+    "difficulty": "easy",
+    "pieceCount": 45
+  },
+  "asset": {
+    "model": "m3.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_204",
+      "node": "Object_204"
+    },
+    {
+      "id": "object_207",
+      "node": "Object_207"
+    },
+    {
+      "id": "object_210",
+      "node": "Object_210"
+    },
+    {
+      "id": "object_304",
+      "node": "Object_304"
+    },
+    {
+      "id": "object_392",
+      "node": "Object_392"
+    },
+    {
+      "id": "object_396",
+      "node": "Object_396"
+    },
+    {
+      "id": "object_600",
+      "node": "Object_600"
+    },
+    {
+      "id": "object_667",
+      "node": "Object_667"
+    },
+    {
+      "id": "object_683",
+      "node": "Object_683"
+    },
+    {
+      "id": "object_712",
+      "node": "Object_712"
+    },
+    {
+      "id": "object_854",
+      "node": "Object_854"
+    },
+    {
+      "id": "object_892",
+      "node": "Object_892"
+    },
+    {
+      "id": "object_918",
+      "node": "Object_918"
+    },
+    {
+      "id": "object_962",
+      "node": "Object_962"
+    },
+    {
+      "id": "object_981",
+      "node": "Object_981"
+    },
+    {
+      "id": "object_985",
+      "node": "Object_985"
+    },
+    {
+      "id": "object_989",
+      "node": "Object_989"
+    },
+    {
+      "id": "object_993",
+      "node": "Object_993"
+    },
+    {
+      "id": "object_1002",
+      "node": "Object_1002"
+    },
+    {
+      "id": "object_1005",
+      "node": "Object_1005"
+    },
+    {
+      "id": "object_1008",
+      "node": "Object_1008"
+    },
+    {
+      "id": "object_1017",
+      "node": "Object_1017"
+    },
+    {
+      "id": "object_1026",
+      "node": "Object_1026"
+    },
+    {
+      "id": "object_1063",
+      "node": "Object_1063"
+    },
+    {
+      "id": "object_1104",
+      "node": "Object_1104"
+    },
+    {
+      "id": "object_1107",
+      "node": "Object_1107"
+    },
+    {
+      "id": "object_1111",
+      "node": "Object_1111"
+    },
+    {
+      "id": "object_1142",
+      "node": "Object_1142"
+    },
+    {
+      "id": "object_1189",
+      "node": "Object_1189"
+    },
+    {
+      "id": "object_1248",
+      "node": "Object_1248"
+    },
+    {
+      "id": "object_1251",
+      "node": "Object_1251"
+    },
+    {
+      "id": "object_1254",
+      "node": "Object_1254"
+    },
+    {
+      "id": "object_1257",
+      "node": "Object_1257"
+    },
+    {
+      "id": "object_1260",
+      "node": "Object_1260"
+    },
+    {
+      "id": "object_1263",
+      "node": "Object_1263"
+    },
+    {
+      "id": "object_1267",
+      "node": "Object_1267"
+    },
+    {
+      "id": "object_1418",
+      "node": "Object_1418"
+    },
+    {
+      "id": "object_1422",
+      "node": "Object_1422"
+    },
+    {
+      "id": "object_1426",
+      "node": "Object_1426"
+    },
+    {
+      "id": "object_1430",
+      "node": "Object_1430"
+    },
+    {
+      "id": "object_1466",
+      "node": "Object_1466"
+    },
+    {
+      "id": "object_1482",
+      "node": "Object_1482"
+    },
+    {
+      "id": "object_1485",
+      "node": "Object_1485"
+    },
+    {
+      "id": "object_1488",
+      "node": "Object_1488"
+    },
+    {
+      "id": "object_1497",
+      "node": "Object_1497"
+    }
+  ]
+}

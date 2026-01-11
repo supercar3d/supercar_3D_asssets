@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "brand": "BMW",
+    "model": "M5",
+    "difficulty": "easy",
+    "pieceCount": 14
+  },
+  "asset": {
+    "model": "m5.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_35_003_000_0001",
+      "node": "Object_35_003_000_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_paiqi_0001",
+      "node": "f_bmw_f90_m5_paiqi_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_003__0001",
+      "node": "f_bmw_f90_m5_003__0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_005_chromeblack_0001",
+      "node": "f_bmw_f90_m5_005_CHROMEBLACK_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_007_blackshiny_001_0001",
+      "node": "f_bmw_f90_m5_007_BLACKSHINY_001_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_016_ext_glass_0001",
+      "node": "f_bmw_f90_m5_016_EXt_GLASS_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_017_redg_0001",
+      "node": "f_bmw_f90_m5_017_redg_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_022_m_engine_max_0001",
+      "node": "f_bmw_f90_m5_022_M_Engine_Max_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_033_ext_carbon_0001",
+      "node": "f_bmw_f90_m5_033_EXT_CARBON_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_119_carpaint_0001",
+      "node": "f_bmw_f90_m5_119_Carpaint_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_125_diffuser_0001",
+      "node": "f_bmw_f90_m5_125_diffuser_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_126_m_carpaint_trim_carbona_max_0001",
+      "node": "f_bmw_f90_m5_126_M_CarPaint_Trim_CarbonA_Max_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_127_m_badge_max_0001",
+      "node": "f_bmw_f90_m5_127_M_Badge_Max_0001"
+    },
+    {
+      "id": "f_bmw_f90_m5_137_rim_blurred_0001",
+      "node": "f_bmw_f90_m5_137_Rim_Blurred_0001"
+    }
+  ]
+}

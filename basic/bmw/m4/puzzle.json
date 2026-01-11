@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "brand": "BMW",
+    "model": "M4",
+    "difficulty": "easy",
+    "pieceCount": 39
+  },
+  "asset": {
+    "model": "m4.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_3",
+      "node": "Object_3"
+    },
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_8",
+      "node": "Object_8"
+    },
+    {
+      "id": "object_21",
+      "node": "Object_21"
+    },
+    {
+      "id": "object_22",
+      "node": "Object_22"
+    },
+    {
+      "id": "object_29",
+      "node": "Object_29"
+    },
+    {
+      "id": "object_30",
+      "node": "Object_30"
+    },
+    {
+      "id": "object_32",
+      "node": "Object_32"
+    },
+    {
+      "id": "object_37",
+      "node": "Object_37"
+    },
+    {
+      "id": "object_41",
+      "node": "Object_41"
+    },
+    {
+      "id": "object_42",
+      "node": "Object_42"
+    },
+    {
+      "id": "object_8001",
+      "node": "Object_8001"
+    },
+    {
+      "id": "object_8002",
+      "node": "Object_8002"
+    },
+    {
+      "id": "object_8003",
+      "node": "Object_8003"
+    },
+    {
+      "id": "object_8004",
+      "node": "Object_8004"
+    },
+    {
+      "id": "object_8005",
+      "node": "Object_8005"
+    },
+    {
+      "id": "object_8006",
+      "node": "Object_8006"
+    },
+    {
+      "id": "object_8007",
+      "node": "Object_8007"
+    },
+    {
+      "id": "object_8008",
+      "node": "Object_8008"
+    },
+    {
+      "id": "object_8009",
+      "node": "Object_8009"
+    },
+    {
+      "id": "object_8010",
+      "node": "Object_8010"
+    },
+    {
+      "id": "object_8011",
+      "node": "Object_8011"
+    },
+    {
+      "id": "object_8012",
+      "node": "Object_8012"
+    },
+    {
+      "id": "object_8013",
+      "node": "Object_8013"
+    },
+    {
+      "id": "object_8014",
+      "node": "Object_8014"
+    },
+    {
+      "id": "object_8015",
+      "node": "Object_8015"
+    },
+    {
+      "id": "object_8016",
+      "node": "Object_8016"
+    },
+    {
+      "id": "object_8017",
+      "node": "Object_8017"
+    },
+    {
+      "id": "object_8018",
+      "node": "Object_8018"
+    },
+    {
+      "id": "object_8019",
+      "node": "Object_8019"
+    },
+    {
+      "id": "object_8020",
+      "node": "Object_8020"
+    },
+    {
+      "id": "object_8021",
+      "node": "Object_8021"
+    },
+    {
+      "id": "object_8022",
+      "node": "Object_8022"
+    },
+    {
+      "id": "object_8023",
+      "node": "Object_8023"
+    },
+    {
+      "id": "object_8024",
+      "node": "Object_8024"
+    },
+    {
+      "id": "object_8025",
+      "node": "Object_8025"
+    },
+    {
+      "id": "object_8026",
+      "node": "Object_8026"
+    },
+    {
+      "id": "object_8027",
+      "node": "Object_8027"
+    },
+    {
+      "id": "object_8028",
+      "node": "Object_8028"
+    }
+  ]
+}
