@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "brand": "McLaren",
+    "series": "Artura-2023",
+    "model": "supercar",
+    "difficulty": "easy",
+    "pieceCount": 29
+  },
+  "asset": {
+    "model": "artura-2023.glb"
+  },
+  "pieces": [
+    {
+      "id": "badge_geo_loda_mclaren_arturarewardrecycled_2022badgea_material",
+      "node": "Badge_Geo_lodA_McLaren_ArturaRewardRecycled_2022BadgeA_Material"
+    },
+    {
+      "id": "carbon1_geo_loda_mclaren_arturarewardrecycled_2022carbon1_mater",
+      "node": "Carbon1_Geo_lodA_McLaren_ArturaRewardRecycled_2022Carbon1_Mater"
+    },
+    {
+      "id": "grille4_geo_loda_mclaren_arturarewardrecycled_2022grille4a_mate",
+      "node": "Grille4_Geo_lodA_McLaren_ArturaRewardRecycled_2022Grille4A_Mate"
+    },
+    {
+      "id": "interior_geo_loda_mclaren_arturarewardrecycled_2022interiora_ma",
+      "node": "Interior_Geo_lodA_McLaren_ArturaRewardRecycled_2022InteriorA_Ma"
+    },
+    {
+      "id": "manufacturerplate_geo_loda_mclaren_arturarewardrecycled_2022man",
+      "node": "ManufacturerPlate_Geo_lodA_McLaren_ArturaRewardRecycled_2022Man"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_material_",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Material_"
+    },
+    {
+      "id": "window_geo_loda_mclaren_arturarewardrecycled_2022window_materia",
+      "node": "Window_Geo_lodA_McLaren_ArturaRewardRecycled_2022Window_Materia"
+    },
+    {
+      "id": "polysurface129_mclaren_arturarewardrecycled_2022_wheel1a_3d_3dw",
+      "node": "polySurface129_McLaren_ArturaRewardRecycled_2022_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface296_mclaren_arturarewardrecycled_2022_wheel1a_3d_3dw",
+      "node": "polySurface296_McLaren_ArturaRewardRecycled_2022_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface435_mclaren_arturarewardrecycled_2022_wheel1a_3d_3dw",
+      "node": "polySurface435_McLaren_ArturaRewardRecycled_2022_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface599_mclaren_arturarewardrecycled_2022_wheel1a_3d_3dw",
+      "node": "polySurface599_McLaren_ArturaRewardRecycled_2022_Wheel1A_3D_3DW"
+    },
+    {
+      "id": "polysurface664_mclaren_arturarewardrecycled_2022_calliperscalli",
+      "node": "polySurface664_McLaren_ArturaRewardRecycled_2022_CallipersCalli"
+    },
+    {
+      "id": "polysurface687_mclaren_arturarewardrecycled_2022_calliperscalli",
+      "node": "polySurface687_McLaren_ArturaRewardRecycled_2022_CallipersCalli"
+    },
+    {
+      "id": "polysurface720_mclaren_arturarewardrecycled_2022_calliperscalli",
+      "node": "polySurface720_McLaren_ArturaRewardRecycled_2022_CallipersCalli"
+    },
+    {
+      "id": "polysurface745_mclaren_arturarewardrecycled_2022_calliperscalli",
+      "node": "polySurface745_McLaren_ArturaRewardRecycled_2022_CallipersCalli"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_material",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Material"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_materia",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Materia"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater003",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater003"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater004",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater004"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater005",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater005"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater007",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater007"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater008",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater008"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater009",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater009"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater010",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater010"
+    },
+    {
+      "id": "paint_geo_loda_mclaren_arturarewardrecycled_2022paint_mater011",
+      "node": "Paint_Geo_lodA_McLaren_ArturaRewardRecycled_2022Paint_Mater011"
+    },
+    {
+      "id": "grille1_geo_loda_mclaren_arturarewardrecycled_2022grille1a_mat",
+      "node": "Grille1_Geo_lodA_McLaren_ArturaRewardRecycled_2022Grille1A_Mat"
+    },
+    {
+      "id": "coloured_geo_loda_mclaren_arturarewardrecycled_2022coloured_ma",
+      "node": "Coloured_Geo_lodA_McLaren_ArturaRewardRecycled_2022Coloured_Ma"
+    },
+    {
+      "id": "coloured_geo_loda_mclaren_arturarewardrecycled_2022coloured_",
+      "node": "Coloured_Geo_lodA_McLaren_ArturaRewardRecycled_2022Coloured_"
+    }
+  ]
+}
