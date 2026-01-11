@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "brand": "Lamborgini",
+    "model": "Revuelto",
+    "difficulty": "easy",
+    "pieceCount": 66
+  },
+  "asset": {
+    "model": "revuelto.glb"
+  },
+  "pieces": [
+    {
+      "id": "base_geo_loda_lamborghini_revueltoreward_2024base_material_0",
+      "node": "Base_Geo_lodA_Lamborghini_RevueltoReward_2024Base_Material_0"
+    },
+    {
+      "id": "carbon1_geo_loda_lamborghini_revueltoreward_2024carbon1_materia",
+      "node": "Carbon1_Geo_lodA_Lamborghini_RevueltoReward_2024Carbon1_Materia"
+    },
+    {
+      "id": "coloured_geo_loda_lamborghini_revueltoreward_2024coloured_mater",
+      "node": "Coloured_Geo_lodA_Lamborghini_RevueltoReward_2024Coloured_Mater"
+    },
+    {
+      "id": "grille4_geo_loda_lamborghini_revueltoreward_2024grille4a_materi",
+      "node": "Grille4_Geo_lodA_Lamborghini_RevueltoReward_2024Grille4A_Materi"
+    },
+    {
+      "id": "interior_geo_loda_lamborghini_revueltoreward_2024interiora_mate",
+      "node": "Interior_Geo_lodA_Lamborghini_RevueltoReward_2024InteriorA_Mate"
+    },
+    {
+      "id": "light_geo_loda_lamborghini_revueltoreward_2024lighta_material_0",
+      "node": "Light_Geo_lodA_Lamborghini_RevueltoReward_2024LightA_Material_0"
+    },
+    {
+      "id": "manufacturerplate_geo_loda_lamborghini_revueltoreward_2024manuf",
+      "node": "ManufacturerPlate_Geo_lodA_Lamborghini_RevueltoReward_2024Manuf"
+    },
+    {
+      "id": "windowinside_geo_loda_lamborghini_revueltoreward_2024window_mat",
+      "node": "WindowInside_Geo_lodA_Lamborghini_RevueltoReward_2024Window_Mat"
+    },
+    {
+      "id": "window_geo_loda_lamborghini_revueltoreward_2024window_material_",
+      "node": "Window_Geo_lodA_Lamborghini_RevueltoReward_2024Window_Material_"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_2024pai",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_2024Pai"
+    },
+    {
+      "id": "polysurface46_lamborghini_revueltorewardrecycled_2024_wheel1a_3",
+      "node": "polySurface46_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_3"
+    },
+    {
+      "id": "polysurface432_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface432_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface586_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface586_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface655_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface655_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface657_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface657_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface799_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface799_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface890_lamborghini_revueltorewardrecycled_2024_wheel1a_",
+      "node": "polySurface890_Lamborghini_RevueltoRewardRecycled_2024_Wheel1A_"
+    },
+    {
+      "id": "polysurface1146_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1146_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1148_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1148_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1199_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1199_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1201_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1201_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1232_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1232_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1294_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1294_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1314_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1314_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1367_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1367_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1446_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1446_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1459_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1459_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1481_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1481_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "polysurface1485_lamborghini_revueltorewardrecycled_2024_callipe",
+      "node": "polySurface1485_Lamborghini_RevueltoRewardRecycled_2024_Callipe"
+    },
+    {
+      "id": "base_geo_loda_lamborghini_revueltoreward_2024base_material_",
+      "node": "Base_Geo_lodA_Lamborghini_RevueltoReward_2024Base_Material_"
+    },
+    {
+      "id": "base_geo_loda_lamborghini_revueltoreward_2024base_material_001",
+      "node": "Base_Geo_lodA_Lamborghini_RevueltoReward_2024Base_Material_001"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_2024pa",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_2024Pa"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_2024p",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_2024P"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_2024",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_2024"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202001",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202001"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202002",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202002"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202003",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202003"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202004",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202004"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202005",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202005"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202006",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202006"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202007",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202007"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202008",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202008"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202009",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202009"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202010",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202010"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202011",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202011"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202012",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202012"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202013",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202013"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202014",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202014"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202015",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202015"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202016",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202016"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202017",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202017"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202018",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202018"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202019",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202019"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202020",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202020"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202021",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202021"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202022",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202022"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202023",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202023"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202024",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202024"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202025",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202025"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202026",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202026"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202027",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202027"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202028",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202028"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202029",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202029"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202030",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202030"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_lamborghini_revueltoreward_202031",
+      "node": "body_Paint_Geo_lodABody_lodA_Lamborghini_RevueltoReward_202031"
+    }
+  ]
+}
