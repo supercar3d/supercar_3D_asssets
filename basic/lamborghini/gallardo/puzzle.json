@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "brand": "Lamborghini",
+    "model": "Gallardo",
+    "difficulty": "easy",
+    "pieceCount": 38
+  },
+  "asset": {
+    "model": "gallardo.glb"
+  },
+  "pieces": [
+    {
+      "id": "b_engine_cover_paint_0001",
+      "node": "b_engine_cover_paint_0001"
+    },
+    {
+      "id": "b_engine_cover_paint_0002",
+      "node": "b_engine_cover_paint_0002"
+    },
+    {
+      "id": "b_engine_cover_paint_0003",
+      "node": "b_engine_cover_paint_0003"
+    },
+    {
+      "id": "b_engine_cover_paint_0004",
+      "node": "b_engine_cover_paint_0004"
+    },
+    {
+      "id": "b_engine_cover_paint_0005",
+      "node": "b_engine_cover_paint_0005"
+    },
+    {
+      "id": "b_engine_cover_paint_0006",
+      "node": "b_engine_cover_paint_0006"
+    },
+    {
+      "id": "b_engine_cover_paint_0007",
+      "node": "b_engine_cover_paint_0007"
+    },
+    {
+      "id": "b_engine_cover_paint_0008",
+      "node": "b_engine_cover_paint_0008"
+    },
+    {
+      "id": "b_engine_cover_paint_0009",
+      "node": "b_engine_cover_paint_0009"
+    },
+    {
+      "id": "b_engine_cover_paint_0010",
+      "node": "b_engine_cover_paint_0010"
+    },
+    {
+      "id": "b_engine_cover_paint_0011",
+      "node": "b_engine_cover_paint_0011"
+    },
+    {
+      "id": "b_engine_cover_paint_0012",
+      "node": "b_engine_cover_paint_0012"
+    },
+    {
+      "id": "b_engine_cover_paint_0014",
+      "node": "b_engine_cover_paint_0014"
+    },
+    {
+      "id": "b_engine_cover_paint_0015",
+      "node": "b_engine_cover_paint_0015"
+    },
+    {
+      "id": "b_engine_cover_paint_0016",
+      "node": "b_engine_cover_paint_0016"
+    },
+    {
+      "id": "b_engine_cover_paint_0018",
+      "node": "b_engine_cover_paint_0018"
+    },
+    {
+      "id": "b_engine_cover_paint_0019",
+      "node": "b_engine_cover_paint_0019"
+    },
+    {
+      "id": "b_engine_cover_paint_0020",
+      "node": "b_engine_cover_paint_0020"
+    },
+    {
+      "id": "b_engine_cover_paint_0021",
+      "node": "b_engine_cover_paint_0021"
+    },
+    {
+      "id": "b_engine_cover_paint_0023",
+      "node": "b_engine_cover_paint_0023"
+    },
+    {
+      "id": "b_engine_cover_paint_0024",
+      "node": "b_engine_cover_paint_0024"
+    },
+    {
+      "id": "b_engine_cover_paint_0026",
+      "node": "b_engine_cover_paint_0026"
+    },
+    {
+      "id": "b_engine_cover_paint_0027",
+      "node": "b_engine_cover_paint_0027"
+    },
+    {
+      "id": "b_engine_cover_detail_plastic_black_0",
+      "node": "b_engine_cover_detail_plastic_black_0"
+    },
+    {
+      "id": "b_engine_cover_window_glass_engine_0",
+      "node": "b_engine_cover_window_glass_engine_0"
+    },
+    {
+      "id": "b_exhaust_chrome_0",
+      "node": "b_exhaust_Chrome_0"
+    },
+    {
+      "id": "b_light_glass_glass_red_0",
+      "node": "b_light_glass_glass_red_0"
+    },
+    {
+      "id": "b_spoiler_paint_0",
+      "node": "b_spoiler_paint_0"
+    },
+    {
+      "id": "f_bull_logo_bull_logo_0",
+      "node": "f_bull_logo_bull_logo_0"
+    },
+    {
+      "id": "f_bumper009_grid_back_0",
+      "node": "f_bumper009_grid_back_0"
+    },
+    {
+      "id": "interior_dashbard_0",
+      "node": "interior_dashbard_0"
+    },
+    {
+      "id": "rim_l001_rim_0",
+      "node": "rim_l001_Rim_0"
+    },
+    {
+      "id": "s_door_handle_paint_0",
+      "node": "s_door_handle_paint_0"
+    },
+    {
+      "id": "s_fender_window_glass_0",
+      "node": "s_fender_window_glass_0"
+    },
+    {
+      "id": "s_mirror_paint_0",
+      "node": "s_mirror_paint_0"
+    },
+    {
+      "id": "s_mirror_miror_mirror_0",
+      "node": "s_mirror_miror_mirror_0"
+    },
+    {
+      "id": "s_skirt_paint_0",
+      "node": "s_skirt_paint_0"
+    },
+    {
+      "id": "t_roof_detail_paint_0",
+      "node": "t_roof_detail_paint_0"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "brand": "Lamborgini",
+    "model": "Huracan",
+    "difficulty": "easy",
+    "pieceCount": 47
+  },
+  "asset": {
+    "model": "huracan.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_23",
+      "node": "Object_23"
+    },
+    {
+      "id": "object_25",
+      "node": "Object_25"
+    },
+    {
+      "id": "object_27",
+      "node": "Object_27"
+    },
+    {
+      "id": "object_33",
+      "node": "Object_33"
+    },
+    {
+      "id": "object_35",
+      "node": "Object_35"
+    },
+    {
+      "id": "object_59",
+      "node": "Object_59"
+    },
+    {
+      "id": "object_65",
+      "node": "Object_65"
+    },
+    {
+      "id": "object_71",
+      "node": "Object_71"
+    },
+    {
+      "id": "object_115",
+      "node": "Object_115"
+    },
+    {
+      "id": "object_127",
+      "node": "Object_127"
+    },
+    {
+      "id": "object_131",
+      "node": "Object_131"
+    },
+    {
+      "id": "object_135",
+      "node": "Object_135"
+    },
+    {
+      "id": "object_183",
+      "node": "Object_183"
+    },
+    {
+      "id": "object_185",
+      "node": "Object_185"
+    },
+    {
+      "id": "object_223",
+      "node": "Object_223"
+    },
+    {
+      "id": "object_227",
+      "node": "Object_227"
+    },
+    {
+      "id": "object_229",
+      "node": "Object_229"
+    },
+    {
+      "id": "object_239",
+      "node": "Object_239"
+    },
+    {
+      "id": "object_245",
+      "node": "Object_245"
+    },
+    {
+      "id": "object_255",
+      "node": "Object_255"
+    },
+    {
+      "id": "object_257",
+      "node": "Object_257"
+    },
+    {
+      "id": "object_261",
+      "node": "Object_261"
+    },
+    {
+      "id": "object_273",
+      "node": "Object_273"
+    },
+    {
+      "id": "object_277",
+      "node": "Object_277"
+    },
+    {
+      "id": "object_287",
+      "node": "Object_287"
+    },
+    {
+      "id": "object_289",
+      "node": "Object_289"
+    },
+    {
+      "id": "object_291",
+      "node": "Object_291"
+    },
+    {
+      "id": "object_299",
+      "node": "Object_299"
+    },
+    {
+      "id": "object_301",
+      "node": "Object_301"
+    },
+    {
+      "id": "object_305",
+      "node": "Object_305"
+    },
+    {
+      "id": "object_259001",
+      "node": "Object_259001"
+    },
+    {
+      "id": "object_255001",
+      "node": "Object_255001"
+    },
+    {
+      "id": "object_257002",
+      "node": "Object_257002"
+    },
+    {
+      "id": "object_229001",
+      "node": "Object_229001"
+    },
+    {
+      "id": "object_229002",
+      "node": "Object_229002"
+    },
+    {
+      "id": "object_229003",
+      "node": "Object_229003"
+    },
+    {
+      "id": "object_229004",
+      "node": "Object_229004"
+    },
+    {
+      "id": "object_229008",
+      "node": "Object_229008"
+    },
+    {
+      "id": "object_229006",
+      "node": "Object_229006"
+    },
+    {
+      "id": "object_229009",
+      "node": "Object_229009"
+    },
+    {
+      "id": "object_229010",
+      "node": "Object_229010"
+    },
+    {
+      "id": "object_229011",
+      "node": "Object_229011"
+    },
+    {
+      "id": "object_229012",
+      "node": "Object_229012"
+    },
+    {
+      "id": "object_289001",
+      "node": "Object_289001"
+    },
+    {
+      "id": "object_287001",
+      "node": "Object_287001"
+    },
+    {
+      "id": "object_287002",
+      "node": "Object_287002"
+    },
+    {
+      "id": "object_229013",
+      "node": "Object_229013"
+    }
+  ]
+}
