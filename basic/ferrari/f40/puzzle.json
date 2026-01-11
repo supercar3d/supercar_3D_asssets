@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "F40",
+    "difficulty": "easy",
+    "pieceCount": 18
+  },
+  "asset": {
+    "model": "f40.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_2",
+      "node": "Object_2"
+    },
+    {
+      "id": "object_3",
+      "node": "Object_3"
+    },
+    {
+      "id": "object_7",
+      "node": "Object_7"
+    },
+    {
+      "id": "object_8",
+      "node": "Object_8"
+    },
+    {
+      "id": "object_9",
+      "node": "Object_9"
+    },
+    {
+      "id": "object_10",
+      "node": "Object_10"
+    },
+    {
+      "id": "object_12",
+      "node": "Object_12"
+    },
+    {
+      "id": "object_17",
+      "node": "Object_17"
+    },
+    {
+      "id": "object_22",
+      "node": "Object_22"
+    },
+    {
+      "id": "object_23",
+      "node": "Object_23"
+    },
+    {
+      "id": "object_24",
+      "node": "Object_24"
+    },
+    {
+      "id": "object_28",
+      "node": "Object_28"
+    },
+    {
+      "id": "object_31",
+      "node": "Object_31"
+    },
+    {
+      "id": "object_35",
+      "node": "Object_35"
+    },
+    {
+      "id": "object_36",
+      "node": "Object_36"
+    },
+    {
+      "id": "object_40",
+      "node": "Object_40"
+    },
+    {
+      "id": "object_43",
+      "node": "Object_43"
+    },
+    {
+      "id": "object_2001",
+      "node": "Object_2001"
+    }
+  ]
+}

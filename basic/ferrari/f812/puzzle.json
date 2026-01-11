@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "f812",
+    "difficulty": "easy",
+    "pieceCount": 76
+  },
+  "asset": {
+    "model": "f812.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_7",
+      "node": "Object_7"
+    },
+    {
+      "id": "object_9",
+      "node": "Object_9"
+    },
+    {
+      "id": "object_11",
+      "node": "Object_11"
+    },
+    {
+      "id": "object_13",
+      "node": "Object_13"
+    },
+    {
+      "id": "object_15",
+      "node": "Object_15"
+    },
+    {
+      "id": "object_17",
+      "node": "Object_17"
+    },
+    {
+      "id": "object_19",
+      "node": "Object_19"
+    },
+    {
+      "id": "object_21",
+      "node": "Object_21"
+    },
+    {
+      "id": "object_23",
+      "node": "Object_23"
+    },
+    {
+      "id": "object_25",
+      "node": "Object_25"
+    },
+    {
+      "id": "object_27",
+      "node": "Object_27"
+    },
+    {
+      "id": "object_29",
+      "node": "Object_29"
+    },
+    {
+      "id": "object_31",
+      "node": "Object_31"
+    },
+    {
+      "id": "object_33",
+      "node": "Object_33"
+    },
+    {
+      "id": "object_35",
+      "node": "Object_35"
+    },
+    {
+      "id": "object_37",
+      "node": "Object_37"
+    },
+    {
+      "id": "object_39",
+      "node": "Object_39"
+    },
+    {
+      "id": "object_41",
+      "node": "Object_41"
+    },
+    {
+      "id": "object_43",
+      "node": "Object_43"
+    },
+    {
+      "id": "object_45",
+      "node": "Object_45"
+    },
+    {
+      "id": "object_47",
+      "node": "Object_47"
+    },
+    {
+      "id": "object_49",
+      "node": "Object_49"
+    },
+    {
+      "id": "object_51",
+      "node": "Object_51"
+    },
+    {
+      "id": "object_53",
+      "node": "Object_53"
+    },
+    {
+      "id": "object_55",
+      "node": "Object_55"
+    },
+    {
+      "id": "object_57",
+      "node": "Object_57"
+    },
+    {
+      "id": "object_60",
+      "node": "Object_60"
+    },
+    {
+      "id": "object_62",
+      "node": "Object_62"
+    },
+    {
+      "id": "object_64",
+      "node": "Object_64"
+    },
+    {
+      "id": "object_66",
+      "node": "Object_66"
+    },
+    {
+      "id": "object_68",
+      "node": "Object_68"
+    },
+    {
+      "id": "object_70",
+      "node": "Object_70"
+    },
+    {
+      "id": "object_72",
+      "node": "Object_72"
+    },
+    {
+      "id": "object_74",
+      "node": "Object_74"
+    },
+    {
+      "id": "object_76",
+      "node": "Object_76"
+    },
+    {
+      "id": "object_78",
+      "node": "Object_78"
+    },
+    {
+      "id": "object_80",
+      "node": "Object_80"
+    },
+    {
+      "id": "object_82",
+      "node": "Object_82"
+    },
+    {
+      "id": "object_84",
+      "node": "Object_84"
+    },
+    {
+      "id": "object_86",
+      "node": "Object_86"
+    },
+    {
+      "id": "object_88",
+      "node": "Object_88"
+    },
+    {
+      "id": "object_90",
+      "node": "Object_90"
+    },
+    {
+      "id": "object_92",
+      "node": "Object_92"
+    },
+    {
+      "id": "object_94",
+      "node": "Object_94"
+    },
+    {
+      "id": "object_96",
+      "node": "Object_96"
+    },
+    {
+      "id": "object_98",
+      "node": "Object_98"
+    },
+    {
+      "id": "object_100",
+      "node": "Object_100"
+    },
+    {
+      "id": "object_102",
+      "node": "Object_102"
+    },
+    {
+      "id": "object_104",
+      "node": "Object_104"
+    },
+    {
+      "id": "object_106",
+      "node": "Object_106"
+    },
+    {
+      "id": "object_108",
+      "node": "Object_108"
+    },
+    {
+      "id": "object_110",
+      "node": "Object_110"
+    },
+    {
+      "id": "object_112",
+      "node": "Object_112"
+    },
+    {
+      "id": "object_114",
+      "node": "Object_114"
+    },
+    {
+      "id": "object_116",
+      "node": "Object_116"
+    },
+    {
+      "id": "object_118",
+      "node": "Object_118"
+    },
+    {
+      "id": "object_120",
+      "node": "Object_120"
+    },
+    {
+      "id": "object_122",
+      "node": "Object_122"
+    },
+    {
+      "id": "object_124",
+      "node": "Object_124"
+    },
+    {
+      "id": "object_126",
+      "node": "Object_126"
+    },
+    {
+      "id": "object_128",
+      "node": "Object_128"
+    },
+    {
+      "id": "object_130",
+      "node": "Object_130"
+    },
+    {
+      "id": "object_132",
+      "node": "Object_132"
+    },
+    {
+      "id": "object_134",
+      "node": "Object_134"
+    },
+    {
+      "id": "object_136",
+      "node": "Object_136"
+    },
+    {
+      "id": "object_138",
+      "node": "Object_138"
+    },
+    {
+      "id": "object_140",
+      "node": "Object_140"
+    },
+    {
+      "id": "object_142",
+      "node": "Object_142"
+    },
+    {
+      "id": "object_144",
+      "node": "Object_144"
+    },
+    {
+      "id": "object_146",
+      "node": "Object_146"
+    },
+    {
+      "id": "object_148",
+      "node": "Object_148"
+    },
+    {
+      "id": "object_150",
+      "node": "Object_150"
+    },
+    {
+      "id": "object_152",
+      "node": "Object_152"
+    },
+    {
+      "id": "object_154",
+      "node": "Object_154"
+    },
+    {
+      "id": "object_156",
+      "node": "Object_156"
+    }
+  ]
+}

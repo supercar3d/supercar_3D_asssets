@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "Cilindri",
+    "difficulty": "easy",
+    "pieceCount": 16
+  },
+  "asset": {
+    "model": "cilindri.glb"
+  },
+  "pieces": [
+    {
+      "id": "fc_carbon1_geo_loda_carbon1_geo_loda_ferrari_12cilindrirewardr",
+      "node": "fc_Carbon1_Geo_lodA_Carbon1_Geo_lodA_Ferrari_12CilindriRewardR"
+    },
+    {
+      "id": "fc_windowinside_geo_loda_windowinside_geo_loda_ferrari_12cilin",
+      "node": "fc_WindowInside_Geo_lodA_WindowInside_Geo_lodA_Ferrari_12Cilin"
+    },
+    {
+      "id": "fc_engine_geo_loda_engine_geo_loda_ferrari_12cilindrirewardrec",
+      "node": "fc_Engine_Geo_lodA_Engine_Geo_lodA_Ferrari_12CilindriRewardRec"
+    },
+    {
+      "id": "fc_grillenoalpha3_geo_loda_grillenoalpha3_geo_loda_ferrari_12c",
+      "node": "fc_GrilleNoAlpha3_Geo_lodA_GrilleNoAlpha3_Geo_lodA_Ferrari_12C"
+    },
+    {
+      "id": "fc_kit1_carbon2_geo_loda_kit1_carbon2_geo_loda_ferrari_12cilin",
+      "node": "fc_Kit1_Carbon2_Geo_lodA_Kit1_Carbon2_Geo_lodA_Ferrari_12Cilin"
+    },
+    {
+      "id": "fc_light_geo_loda_light_geo_loda_ferrari_12cilindrirewardrecyc",
+      "node": "fc_Light_Geo_lodA_Light_Geo_lodA_Ferrari_12CilindriRewardRecyc"
+    },
+    {
+      "id": "fc_window_geo_loda_window_geo_loda_ferrari_12cilindrirewardrec",
+      "node": "fc_Window_Geo_lodA_Window_Geo_lodA_Ferrari_12CilindriRewardRec"
+    },
+    {
+      "id": "fc_window_geo_loda_window_geo_loda_ferrari_12cilindrirewardre",
+      "node": "fc_Window_Geo_lodA_Window_Geo_lodA_Ferrari_12CilindriRewardRe"
+    },
+    {
+      "id": "fc_grillealpha1_geo_loda_grillealpha1_geo_loda_ferrari_12cilin",
+      "node": "fc_GrilleAlpha1_Geo_lodA_GrilleAlpha1_Geo_lodA_Ferrari_12Cilin"
+    },
+    {
+      "id": "fc_kit1_coloured_geo_loda_kit1_coloured_geo_loda_ferrari_12cil",
+      "node": "fc_Kit1_Coloured_Geo_lodA_Kit1_Coloured_Geo_lodA_Ferrari_12Cil"
+    },
+    {
+      "id": "fc_manufacturerplate_geo_loda_manufacturerplate_geo_loda_ferra",
+      "node": "fc_ManufacturerPlate_Geo_lodA_ManufacturerPlate_Geo_lodA_Ferra"
+    },
+    {
+      "id": "fc_paint_geo_loda_paint_geo_loda_ferrari_12cilindrirewardrecyc",
+      "node": "fc_Paint_Geo_lodA_Paint_Geo_lodA_Ferrari_12CilindriRewardRecyc"
+    },
+    {
+      "id": "c_wheel_rf_main_001_rim_001_c_rim_002_0",
+      "node": "c_wheel_rf_main_001_rim_001_c_rim_002_0"
+    },
+    {
+      "id": "c_hub_lf_002_material_005_c_material_014_0",
+      "node": "c_hub_lf_002_Material_005_c_Material_014_0"
+    },
+    {
+      "id": "c_wheel_lr_main_002_material_010_c_rim_002_0",
+      "node": "c_wheel_lr_main_002_Material_010_c_rim_002_0"
+    },
+    {
+      "id": "c_hub_lf_002_material_005_c_material_014_0.001",
+      "node": "c_hub_lf_002_Material_005_c_Material_014_0.001"
+    }
+  ]
+}

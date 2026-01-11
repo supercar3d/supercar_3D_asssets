@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "Roma",
+    "difficulty": "easy",
+    "pieceCount": 14
+  },
+  "asset": {
+    "model": "roma.glb"
+  },
+  "pieces": [
+    {
+      "id": "carbon2_geo_loda_ferrari_romarewardrecycled_2020carbon2_materia",
+      "node": "Carbon2_Geo_lodA_Ferrari_RomaRewardRecycled_2020Carbon2_Materia"
+    },
+    {
+      "id": "coloured_geo_loda_ferrari_romarewardrecycled_2020coloured_mater",
+      "node": "Coloured_Geo_lodA_Ferrari_RomaRewardRecycled_2020Coloured_Mater"
+    },
+    {
+      "id": "coloured_geo_loda_chrome_0",
+      "node": "Coloured_Geo_lodA_CHROME_0"
+    },
+    {
+      "id": "engine_geo_loda_ferrari_romarewardrecycled_2020enginea_material",
+      "node": "Engine_Geo_lodA_Ferrari_RomaRewardRecycled_2020EngineA_Material"
+    },
+    {
+      "id": "interior_geo_loda_ferrari_romarewardrecycled_2020interiora_mate",
+      "node": "Interior_Geo_lodA_Ferrari_RomaRewardRecycled_2020InteriorA_Mate"
+    },
+    {
+      "id": "manufacturerplate_geo_loda_ferrari_romarewardrecycled_2020manuf",
+      "node": "ManufacturerPlate_Geo_lodA_Ferrari_RomaRewardRecycled_2020Manuf"
+    },
+    {
+      "id": "window_geo_loda_ferrari_romarewardrecycled_2020window_material_",
+      "node": "Window_Geo_lodA_Ferrari_RomaRewardRecycled_2020Window_Material_"
+    },
+    {
+      "id": "window_geo_loda_red_glass_0",
+      "node": "Window_Geo_lodA_RED_GLASS_0"
+    },
+    {
+      "id": "bodypaint_geo_lodabody_loda_ferrari_romarewardrecycled_2020pai",
+      "node": "bodyPaint_Geo_lodABody_lodA_Ferrari_RomaRewardRecycled_2020Pai"
+    },
+    {
+      "id": "polysurface273_ferrari_romarewardrecycled_2020_wheel1a_3d_3dwhe",
+      "node": "polySurface273_Ferrari_RomaRewardRecycled_2020_Wheel1A_3D_3DWhe"
+    },
+    {
+      "id": "polysurface455_ferrari_romarewardrecycled_2020_wheel1a_3d_3dwhe",
+      "node": "polySurface455_Ferrari_RomaRewardRecycled_2020_Wheel1A_3D_3DWhe"
+    },
+    {
+      "id": "polysurface858_ferrari_romarewardrecycled_2020_calliperscallipe",
+      "node": "polySurface858_Ferrari_RomaRewardRecycled_2020_CallipersCallipe"
+    },
+    {
+      "id": "window_geo_loda_ferrari_romarewardrecycled_2020window_material",
+      "node": "Window_Geo_lodA_Ferrari_RomaRewardRecycled_2020Window_Material"
+    },
+    {
+      "id": "window_geo_loda_red_glass_0001",
+      "node": "Window_Geo_lodA_RED_GLASS_0001"
+    }
+  ]
+}

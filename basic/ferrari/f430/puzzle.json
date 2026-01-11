@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "F430",
+    "difficulty": "easy",
+    "pieceCount": 100
+  },
+  "asset": {
+    "model": "f430.glb"
+  },
+  "pieces": [
+    {
+      "id": "lod_a_tyre_mm_tyre1_vehicle_exterior_mm_tyre1_0",
+      "node": "LOD_A_TYRE_mm_tyre1_Vehicle_Exterior_mm_tyre1_0"
+    },
+    {
+      "id": "lod_a_rotor_mm_rotor1_vehicle_exterior_mm_rotor1_0",
+      "node": "LOD_A_ROTOR_mm_rotor1_Vehicle_Exterior_mm_rotor1_0"
+    },
+    {
+      "id": "lod_a_wheel_mm_wheel1_vehicle_exterior_mm_wheel1_0",
+      "node": "LOD_A_WHEEL_mm_wheel1_Vehicle_Exterior_mm_wheel1_0"
+    },
+    {
+      "id": "lod_a_rotor_mm_rotor_vehicle_exterior_mm_rotor1_0",
+      "node": "LOD_A_ROTOR_mm_rotor_Vehicle_Exterior_mm_rotor1_0"
+    },
+    {
+      "id": "lod_a_wheel_mm_wheel_vehicle_exterior_mm_wheel1_0",
+      "node": "LOD_A_WHEEL_mm_wheel_Vehicle_Exterior_mm_wheel1_0"
+    },
+    {
+      "id": "lod_a_tyre_mm_tyre_vehicle_exterior_mm_tyre1_0",
+      "node": "LOD_A_TYRE_mm_tyre_Vehicle_Exterior_mm_tyre1_0"
+    },
+    {
+      "id": "lod_a_wheel_mm_wheel_vehicle_exterior_mm_wheel1_0.001",
+      "node": "LOD_A_WHEEL_mm_wheel_Vehicle_Exterior_mm_wheel1_0.001"
+    },
+    {
+      "id": "lod_a_tyre_mm_tyre_vehicle_exterior_mm_tyre1_0.001",
+      "node": "LOD_A_TYRE_mm_tyre_Vehicle_Exterior_mm_tyre1_0.001"
+    },
+    {
+      "id": "lod_a_rotor_mm_rotor_vehicle_exterior_mm_rotor1_0.001",
+      "node": "LOD_A_ROTOR_mm_rotor_Vehicle_Exterior_mm_rotor1_0.001"
+    },
+    {
+      "id": "lod_a_brake_caliper_rear_right_mm_misc_vehicle_exteri",
+      "node": "LOD_A_BRAKE_CALIPER_REAR_RIGHT_mm_misc_Vehicle_Exteri"
+    },
+    {
+      "id": "lod_a_brake_caliper_rear_left_mm_misc_vehicle_exterio",
+      "node": "LOD_A_BRAKE_CALIPER_REAR_LEFT_mm_misc_Vehicle_Exterio"
+    },
+    {
+      "id": "lod_a_brake_caliper_front_right_mm_misc_vehicle_exter",
+      "node": "LOD_A_BRAKE_CALIPER_FRONT_RIGHT_mm_misc_Vehicle_Exter"
+    },
+    {
+      "id": "lod_a_brake_caliper_front_left_mm_misc_vehicle_exteri",
+      "node": "LOD_A_BRAKE_CALIPER_FRONT_LEFT_mm_misc_Vehicle_Exteri"
+    },
+    {
+      "id": "lod_a_taillight_lens_right_mm_lights_vehicle_exterior",
+      "node": "LOD_A_TAILLIGHT_LENS_RIGHT_mm_lights_Vehicle_Exterior"
+    },
+    {
+      "id": "lod_a_taillight_lens_left_mm_lights_vehicle_exterior_",
+      "node": "LOD_A_TAILLIGHT_LENS_LEFT_mm_lights_Vehicle_Exterior_"
+    },
+    {
+      "id": "lod_a_rearbumper_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_REARBUMPER_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_rearbumper_mm_lights_vehicle_exterior_mm_lights",
+      "node": "LOD_A_REARBUMPER_mm_lights_Vehicle_Exterior_mm_lights"
+    },
+    {
+      "id": "lod_a_rearbumper_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_REARBUMPER_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_rearbumper_mm_badges_vehicle_exterior_mm_badges",
+      "node": "LOD_A_REARBUMPER_mm_badges_Vehicle_Exterior_mm_badges"
+    },
+    {
+      "id": "lod_a_mirror_right_mm_misc_vehicle_exterior_mm_misc1_",
+      "node": "LOD_A_MIRROR_RIGHT_mm_misc_Vehicle_Exterior_mm_misc1_"
+    },
+    {
+      "id": "lod_a_mirror_right_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_MIRROR_RIGHT_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_mirror_left_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_MIRROR_LEFT_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_mirror_left_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_MIRROR_LEFT_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_mirror_glass_right_mm_misc_vehicle_exterior_mm_",
+      "node": "LOD_A_MIRROR_GLASS_RIGHT_mm_misc_Vehicle_Exterior_mm_"
+    },
+    {
+      "id": "lod_a_mirror_glass_left_mm_misc_vehicle_exterior_mm_m",
+      "node": "LOD_A_MIRROR_GLASS_LEFT_mm_misc_Vehicle_Exterior_mm_m"
+    },
+    {
+      "id": "lod_a_interior_mm_cab_vehicle_exterior_mm_cab1_0",
+      "node": "LOD_A_INTERIOR_mm_cab_Vehicle_Exterior_mm_cab1_0"
+    },
+    {
+      "id": "lod_a_hood_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_HOOD_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_hood_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_HOOD_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_hood_mm_badges_vehicle_exterior_mm_badges1_0",
+      "node": "LOD_A_HOOD_mm_badges_Vehicle_Exterior_mm_badges1_0"
+    },
+    {
+      "id": "lod_a_headlight_lens_right_mm_windows_vehicle_exterio",
+      "node": "LOD_A_HEADLIGHT_LENS_RIGHT_mm_windows_Vehicle_Exterio"
+    },
+    {
+      "id": "lod_a_headlight_lens_left_mm_windows_vehicle_exterior",
+      "node": "LOD_A_HEADLIGHT_LENS_LEFT_mm_windows_Vehicle_Exterior"
+    },
+    {
+      "id": "lod_a_glass_mm_windows_vehicle_exterior_mm_windows1_0",
+      "node": "LOD_A_GLASS_mm_windows_Vehicle_Exterior_mm_windows1_0"
+    },
+    {
+      "id": "lod_a_glass_right_mm_windows_vehicle_exterior_mm_wind",
+      "node": "LOD_A_GLASS_RIGHT_mm_windows_Vehicle_Exterior_mm_wind"
+    },
+    {
+      "id": "lod_a_glass_right_quarter_mm_windows_vehicle_exterior",
+      "node": "LOD_A_GLASS_RIGHT_QUARTER_mm_windows_Vehicle_Exterior"
+    },
+    {
+      "id": "lod_a_glass_left_mm_windows_vehicle_exterior_mm_windo",
+      "node": "LOD_A_GLASS_LEFT_mm_windows_Vehicle_Exterior_mm_windo"
+    },
+    {
+      "id": "lod_a_glass_left_quarter_mm_windows_vehicle_exterior_",
+      "node": "LOD_A_GLASS_LEFT_QUARTER_mm_windows_Vehicle_Exterior_"
+    },
+    {
+      "id": "lod_a_glass_front_mm_windows_black_glass_0",
+      "node": "LOD_A_GLASS_FRONT_mm_windows_BLACK_GLASS_0"
+    },
+    {
+      "id": "lod_a_glass_front_mm_windows_vehicle_exterior_mm_wind",
+      "node": "LOD_A_GLASS_FRONT_mm_windows_Vehicle_Exterior_mm_wind"
+    },
+    {
+      "id": "lod_a_glass_boot_rear_mm_windows_vehicle_exterior_mm_",
+      "node": "LOD_A_GLASS_BOOT_REAR_mm_windows_Vehicle_Exterior_mm_"
+    },
+    {
+      "id": "lod_a_frontbumper_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_FRONTBUMPER_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_frontbumper_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_FRONTBUMPER_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_frontbumper_mm_chassis_vehicle_exterior_mm_chas",
+      "node": "LOD_A_FRONTBUMPER_mm_chassis_Vehicle_Exterior_mm_chas"
+    },
+    {
+      "id": "lod_a_frontbumper_mm_badges_vehicle_exterior_mm_badge",
+      "node": "LOD_A_FRONTBUMPER_mm_badges_Vehicle_Exterior_mm_badge"
+    },
+    {
+      "id": "lod_a_exhaust_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_EXHAUST_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_door_right_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_DOOR_RIGHT_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_door_right_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_DOOR_RIGHT_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_door_right_mm_badges_vehicle_exterior_mm_badges",
+      "node": "LOD_A_DOOR_RIGHT_mm_badges_Vehicle_Exterior_mm_badges"
+    },
+    {
+      "id": "lod_a_door_left_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_DOOR_LEFT_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_door_left_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_DOOR_LEFT_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_door_left_mm_badges_vehicle_exterior_mm_badges1",
+      "node": "LOD_A_DOOR_LEFT_mm_badges_Vehicle_Exterior_mm_badges1"
+    },
+    {
+      "id": "lod_a_chassis_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_CHASSIS_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_chassis_mm_chassis_vehicle_exterior_mm_chassis1",
+      "node": "LOD_A_CHASSIS_mm_chassis_Vehicle_Exterior_mm_chassis1"
+    },
+    {
+      "id": "lod_a_brakes_right_mm_lights_vehicle_exterior_mm_ligh",
+      "node": "LOD_A_BRAKES_RIGHT_mm_lights_Vehicle_Exterior_mm_ligh"
+    },
+    {
+      "id": "lod_a_brakes_left_mm_lights_vehicle_exterior_mm_light",
+      "node": "LOD_A_BRAKES_LEFT_mm_lights_Vehicle_Exterior_mm_light"
+    },
+    {
+      "id": "lod_a_brakes_boot_mm_lights_vehicle_exterior_mm_light",
+      "node": "LOD_A_BRAKES_BOOT_mm_lights_Vehicle_Exterior_mm_light"
+    },
+    {
+      "id": "lod_a_boot_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_BOOT_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_boot_mm_lights_vehicle_exterior_mm_lights1_0",
+      "node": "LOD_A_BOOT_mm_lights_Vehicle_Exterior_mm_lights1_0"
+    },
+    {
+      "id": "lod_a_boot_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_BOOT_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_boot_mm_badges_vehicle_exterior_mm_badges1_0",
+      "node": "LOD_A_BOOT_mm_badges_Vehicle_Exterior_mm_badges1_0"
+    },
+    {
+      "id": "lod_a_body_mm_misc_vehicle_exterior_mm_misc1_0",
+      "node": "LOD_A_BODY_mm_misc_Vehicle_Exterior_mm_misc1_0"
+    },
+    {
+      "id": "lod_a_body_mm_lights_vehicle_exterior_mm_lights1_0",
+      "node": "LOD_A_BODY_mm_lights_Vehicle_Exterior_mm_lights1_0"
+    },
+    {
+      "id": "lod_a_body_mm_ext_vehicle_exterior_mm_ext1_0",
+      "node": "LOD_A_BODY_mm_ext_Vehicle_Exterior_mm_ext1_0"
+    },
+    {
+      "id": "lod_a_body_mm_badges_vehicle_exterior_mm_badges1_0",
+      "node": "LOD_A_BODY_mm_badges_Vehicle_Exterior_mm_badges1_0"
+    },
+    {
+      "id": "lod_a_tyre_mm_tyre2_vehicle_exterior_mm_tyre1_0",
+      "node": "LOD_A_TYRE_mm_tyre2_Vehicle_Exterior_mm_tyre1_0"
+    },
+    {
+      "id": "lod_a_rotor_mm_rotor2_vehicle_exterior_mm_rotor1_0",
+      "node": "LOD_A_ROTOR_mm_rotor2_Vehicle_Exterior_mm_rotor1_0"
+    },
+    {
+      "id": "lod_a_wheel_mm_wheel2_vehicle_exterior_mm_wheel1_0",
+      "node": "LOD_A_WHEEL_mm_wheel2_Vehicle_Exterior_mm_wheel1_0"
+    },
+    {
+      "id": "lod_a_int_door_left_mm_int_interior_0",
+      "node": "LOD_A_INT_DOOR_LEFT_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_door_left_mm_mat02_mat02_0",
+      "node": "LOD_A_INT_DOOR_LEFT_mm_mat02_MAT02_0"
+    },
+    {
+      "id": "lod_a_int_door_left_mm_mat03_mat_03_0",
+      "node": "LOD_A_INT_DOOR_LEFT_mm_mat03_MAT_03_0"
+    },
+    {
+      "id": "lod_a_int_door_left_mm_mat05_mat05_0",
+      "node": "LOD_A_INT_DOOR_LEFT_mm_mat05_MAT05_0"
+    },
+    {
+      "id": "lod_a_int_door_right_mm_int_interior_0",
+      "node": "LOD_A_INT_DOOR_RIGHT_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_door_right_mm_mat02_mat02_0",
+      "node": "LOD_A_INT_DOOR_RIGHT_mm_mat02_MAT02_0"
+    },
+    {
+      "id": "lod_a_int_door_right_mm_mat03_mat_03_0",
+      "node": "LOD_A_INT_DOOR_RIGHT_mm_mat03_MAT_03_0"
+    },
+    {
+      "id": "lod_a_int_door_right_mm_mat05_mat05_0",
+      "node": "LOD_A_INT_DOOR_RIGHT_mm_mat05_MAT05_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_int_interior_0",
+      "node": "LOD_A_INT_INTERIOR_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat00_phong7_0.001",
+      "node": "LOD_A_INT_INTERIOR_mm_mat00_phong7_0.001"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat02_mat02_0.001",
+      "node": "LOD_A_INT_INTERIOR_mm_mat02_MAT02_0.001"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat03_mat_03_0.001",
+      "node": "LOD_A_INT_INTERIOR_mm_mat03_MAT_03_0.001"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat04_mat04_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat04_Mat04_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_sw_phong2_0",
+      "node": "LOD_A_INT_INTERIOR_mm_sw_phong2_0"
+    },
+    {
+      "id": "lod_a_int_led_emissive_mm_int_interior_0",
+      "node": "LOD_A_INT_LED_EMISSIVE_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_led_mm_int_interior_0",
+      "node": "LOD_A_INT_LED_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_needle_rpm_emissive_mm_int_interior_0",
+      "node": "LOD_A_INT_NEEDLE_RPM_EMISSIVE_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_needle_rpm_mm_int_interior_0",
+      "node": "LOD_A_INT_NEEDLE_RPM_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_needle_speed_emissive_mm_int_interior_0",
+      "node": "LOD_A_INT_NEEDLE_SPEED_EMISSIVE_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_needle_speed_mm_int_interior_0",
+      "node": "LOD_A_INT_NEEDLE_SPEED_mm_int_INTERIOR_0"
+    },
+    {
+      "id": "lod_a_int_steering_wheel_mm_mat01_mat01_0",
+      "node": "LOD_A_INT_STEERING_WHEEL_mm_mat01_MAT01_0"
+    },
+    {
+      "id": "lod_a_int_steering_wheel_mm_mat02_mat02_0",
+      "node": "LOD_A_INT_STEERING_WHEEL_mm_mat02_MAT02_0"
+    },
+    {
+      "id": "lod_a_int_steering_wheel_mm_mat03_mat_03_0",
+      "node": "LOD_A_INT_STEERING_WHEEL_mm_mat03_MAT_03_0"
+    },
+    {
+      "id": "lod_a_int_steering_wheel_mm_sw_phong2_0",
+      "node": "LOD_A_INT_STEERING_WHEEL_mm_sw_phong2_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat00_phong7_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat00_phong7_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat03_mat_03_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat03_MAT_03_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat02_mat02_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat02_MAT02_0"
+    },
+    {
+      "id": "lod_a_int_glass_left_mm_windows_standardsurface1_0",
+      "node": "LOD_A_INT_GLASS_LEFT_mm_windows_standardSurface1_0"
+    },
+    {
+      "id": "lod_a_int_glass_right_mm_windows_standardsurface1_0",
+      "node": "LOD_A_INT_GLASS_RIGHT_mm_windows_standardSurface1_0"
+    },
+    {
+      "id": "lod_a_int_glass_front_mm_windows_standardsurface1_0",
+      "node": "LOD_A_INT_GLASS_FRONT_mm_windows_standardSurface1_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat04_phong7_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat04_phong7_0"
+    },
+    {
+      "id": "lod_a_int_interior_mm_mat05_phong7_0",
+      "node": "LOD_A_INT_INTERIOR_mm_mat05_phong7_0"
+    },
+    {
+      "id": "polysurface1_mat_03_0",
+      "node": "polySurface1_MAT_03_0"
+    },
+    {
+      "id": "polysurface2_mat_03_0",
+      "node": "polySurface2_MAT_03_0"
+    }
+  ]
+}

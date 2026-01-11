@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "brand": "Ferrari",
+    "model": "SF90",
+    "difficulty": "easy",
+    "pieceCount": 34
+  },
+  "asset": {
+    "model": "sf90.glb"
+  },
+  "pieces": [
+    {
+      "id": "coloured_geo_loda_ferrari_sf90xxstradale_2024seatbelt_material_",
+      "node": "Coloured_Geo_lodA_Ferrari_SF90XXStradale_2024SeatBelt_Material_"
+    },
+    {
+      "id": "windowinside_geo_loda_ferrari_sf90xxstradale_2024windowinside_m",
+      "node": "WindowInside_Geo_lodA_Ferrari_SF90XXStradale_2024WindowInside_M"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_ferrari_sf90xxstradale_2024paint_",
+      "node": "body_Paint_Geo_lodABody_lodA_Ferrari_SF90XXStradale_2024Paint_"
+    },
+    {
+      "id": "body_paint_geo_lodabody_loda_phong1_0",
+      "node": "body_Paint_Geo_lodABody_lodA_phong1_0"
+    },
+    {
+      "id": "window_geo_loda_ferrari_sf90xxstradale_2024window_material_0",
+      "node": "Window_Geo_lodA_Ferrari_SF90XXStradale_2024Window_Material_0"
+    },
+    {
+      "id": "polysurface647_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface647_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface712_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface712_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface798_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface798_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface861_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface861_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface889_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface889_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface955_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1c",
+      "node": "polySurface955_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1C"
+    },
+    {
+      "id": "polysurface1040_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1040_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1041_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1041_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1057_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1057_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1189_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1189_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1211_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1211_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1278_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1278_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1279_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1279_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1280_ferrari_sf90xxstradale_2024_wheel1a_3d_3dwheel1",
+      "node": "polySurface1280_Ferrari_SF90XXStradale_2024_Wheel1A_3D_3DWheel1"
+    },
+    {
+      "id": "polysurface1293_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1293_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1298_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1298_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1329_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1329_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1378_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1378_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1446_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1446_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1569_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1569_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1571_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1571_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "polysurface1697_ferrari_sf90xxstradale_2024_calliperscallipera_",
+      "node": "polySurface1697_Ferrari_SF90XXStradale_2024_CallipersCalliperA_"
+    },
+    {
+      "id": "carbon2_geo_loda_ferrari_sf90xxstradale_2024carbon2m_material_",
+      "node": "Carbon2_Geo_lodA_Ferrari_SF90XXStradale_2024Carbon2M_Material_"
+    },
+    {
+      "id": "carbon2_geo_loda_ferrari_sf90xxstradale_2024carbon2m_material",
+      "node": "Carbon2_Geo_lodA_Ferrari_SF90XXStradale_2024Carbon2M_Material"
+    },
+    {
+      "id": "carbon2_geo_loda_ferrari_sf90xxstradale_2024carbon2m_materia",
+      "node": "Carbon2_Geo_lodA_Ferrari_SF90XXStradale_2024Carbon2M_Materia"
+    },
+    {
+      "id": "coloured_geo_loda_ferrari_sf90xxstradale_2024seatbelt_material",
+      "node": "Coloured_Geo_lodA_Ferrari_SF90XXStradale_2024SeatBelt_Material"
+    },
+    {
+      "id": "coloured_geo_loda_ferrari_sf90xxstradale_2024seatbelt_materia",
+      "node": "Coloured_Geo_lodA_Ferrari_SF90XXStradale_2024SeatBelt_Materia"
+    },
+    {
+      "id": "coloured_geo_loda_ferrari_sf90xxstradale_2024seatbelt_materi",
+      "node": "Coloured_Geo_lodA_Ferrari_SF90XXStradale_2024SeatBelt_Materi"
+    },
+    {
+      "id": "carbon2_geo_loda_ferrari_sf90xxstradale_2024carbon2m_materi",
+      "node": "Carbon2_Geo_lodA_Ferrari_SF90XXStradale_2024Carbon2M_Materi"
+    }
+  ]
+}
