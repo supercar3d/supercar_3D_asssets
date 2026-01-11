@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "brand": "McLaren",
+    "model": "570S-2016",
+    "difficulty": "easy",
+    "pieceCount": 80
+  },
+  "asset": {
+    "model": "570s-2016.glb"
+  },
+  "pieces": [
+    {
+      "id": "polysurface1_full_m_glass_windowfront_low1_0",
+      "node": "polySurface1_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface2_full_m_glass_windowfront_low1_0",
+      "node": "polySurface2_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface5_full_m_opaque_plasticroughblack_max_026_0",
+      "node": "polySurface5_full_M_Opaque_PlasticRoughBlack_Max_026_0"
+    },
+    {
+      "id": "polysurface18_full_m_opaque_plasticroughblack_max_026_0",
+      "node": "polySurface18_full_M_Opaque_PlasticRoughBlack_Max_026_0"
+    },
+    {
+      "id": "polysurface19_full_m_opaque_plasticroughblack_max_026_0",
+      "node": "polySurface19_full_M_Opaque_PlasticRoughBlack_Max_026_0"
+    },
+    {
+      "id": "polysurface20_full_m_opaque_plasticroughblack_max_026_0",
+      "node": "polySurface20_full_M_Opaque_PlasticRoughBlack_Max_026_0"
+    },
+    {
+      "id": "polysurface103_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface103_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface416_full_m_badge_max_006_0",
+      "node": "polySurface416_full_M_Badge_Max_006_0"
+    },
+    {
+      "id": "polysurface432_full_m_glass_windowfront_low1_0",
+      "node": "polySurface432_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface433_full_m_glass_windowfront_low1_0",
+      "node": "polySurface433_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface434_full_m_glass_windowfront_low1_0",
+      "node": "polySurface434_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface452_full_m_glass_windowfront_low1_0",
+      "node": "polySurface452_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface454_full_m_glass_windowfront_low1_0",
+      "node": "polySurface454_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface458_full_m_glass_windowfront_low1_0",
+      "node": "polySurface458_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface823_full_m_interior_max_002_0",
+      "node": "polySurface823_full_M_Interior_Max_002_0"
+    },
+    {
+      "id": "polysurface1031_full_m_grilleb_max1_0",
+      "node": "polySurface1031_full_M_GrilleB_Max1_0"
+    },
+    {
+      "id": "polysurface1032_full_m_grilleb_max1_0",
+      "node": "polySurface1032_full_M_GrilleB_Max1_0"
+    },
+    {
+      "id": "polysurface1162_full_m_carpaint_max1_0",
+      "node": "polySurface1162_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1163_full_m_carpaint_max1_0",
+      "node": "polySurface1163_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1166_full_m_carpaint_max1_0",
+      "node": "polySurface1166_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1167_full_m_carpaint_max1_0",
+      "node": "polySurface1167_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1180_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1180_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1183_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1183_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1197_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1197_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1200_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1200_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1228_full_m_lightglass_red_low1_0",
+      "node": "polySurface1228_full_M_LightGlass_Red_Low1_0"
+    },
+    {
+      "id": "polysurface1236_full_m_lightglass_red_low1_0",
+      "node": "polySurface1236_full_M_LightGlass_Red_Low1_0"
+    },
+    {
+      "id": "polysurface1272_full_m_carpaint_max1_0",
+      "node": "polySurface1272_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1279_full_m_carpaint_max1_0",
+      "node": "polySurface1279_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1459_full_m_carpaint_max1_0",
+      "node": "polySurface1459_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1463_full_m_carpaint_max1_0",
+      "node": "polySurface1463_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1464_full_m_carpaint_max1_0",
+      "node": "polySurface1464_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1465_full_m_carpaint_max1_0",
+      "node": "polySurface1465_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1525_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1525_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1550_full_m_carpaint_max1_0",
+      "node": "polySurface1550_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1552_full_m_carpaint_max1_0",
+      "node": "polySurface1552_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1553_full_m_carpaint_max1_0",
+      "node": "polySurface1553_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1554_full_m_carpaint_max1_0",
+      "node": "polySurface1554_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1612_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1612_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1676_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1676_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1686_full_m_carpaint_max1_0",
+      "node": "polySurface1686_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1687_full_m_carpaint_max1_0",
+      "node": "polySurface1687_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1688_full_m_carpaint_max1_0",
+      "node": "polySurface1688_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1689_full_m_carpaint_max1_0",
+      "node": "polySurface1689_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1696_full_m_glass_windowfront_low1_0",
+      "node": "polySurface1696_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface1697_full_m_glass_windowfront_low1_0",
+      "node": "polySurface1697_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface1780_full_m_glass_windowfront_low1_0",
+      "node": "polySurface1780_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface1781_full_m_glass_windowfront_low1_0",
+      "node": "polySurface1781_full_M_Glass_WindowFront_Low1_0"
+    },
+    {
+      "id": "polysurface1866_full_m_carpaint_max1_0",
+      "node": "polySurface1866_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1867_full_m_carpaint_max1_0",
+      "node": "polySurface1867_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1871_full_m_carpaint_max1_0",
+      "node": "polySurface1871_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1891_full_m_badge_max_006_0",
+      "node": "polySurface1891_full_M_Badge_Max_006_0"
+    },
+    {
+      "id": "polysurface1901_full_m_carpaint_max1_0",
+      "node": "polySurface1901_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1902_full_m_carpaint_max1_0",
+      "node": "polySurface1902_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1910_full_m_carpaint_max1_0",
+      "node": "polySurface1910_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1911_full_m_carpaint_max1_0",
+      "node": "polySurface1911_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1922_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface1922_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface1987_full_m_carpaint_max1_0",
+      "node": "polySurface1987_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1988_full_m_carpaint_max1_0",
+      "node": "polySurface1988_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1989_full_m_carpaint_max1_0",
+      "node": "polySurface1989_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1990_full_m_carpaint_max1_0",
+      "node": "polySurface1990_full_M_CarPaint_Max1_0"
+    },
+    {
+      "id": "polysurface1991_full_m_carpaint_trim_pianoblack_max1_0",
+      "node": "polySurface1991_full_M_CarPaint_Trim_PianoBlack_Max1_0"
+    },
+    {
+      "id": "polysurface2000_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2000_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2003_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2003_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2004_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2004_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2006_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2006_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2008_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2008_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2011_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2011_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2053_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2053_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2060_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2060_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2063_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2063_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2064_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2064_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2065_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2065_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2068_full_m_carpaint_trim_carbona_max_006_0",
+      "node": "polySurface2068_full_M_CarPaint_Trim_CarbonA_Max_006_0"
+    },
+    {
+      "id": "polysurface2109_full_m_grillea_max1_0",
+      "node": "polySurface2109_full_M_GrilleA_Max1_0"
+    },
+    {
+      "id": "polysurface2144_full_m_grillea_max1_0",
+      "node": "polySurface2144_full_M_GrilleA_Max1_0"
+    },
+    {
+      "id": "polysurface2293_full_m_rim_main_max1_0",
+      "node": "polySurface2293_full_M_Rim_Main_Max1_0"
+    },
+    {
+      "id": "polysurface2174_full_m_rim_main_max1_0",
+      "node": "polySurface2174_full_M_Rim_Main_Max1_0"
+    },
+    {
+      "id": "polysurface2174_full_m_rim_main_max1_0001",
+      "node": "polySurface2174_full_M_Rim_Main_Max1_0001"
+    },
+    {
+      "id": "polysurface2293_full_m_rim_main_max1_0001",
+      "node": "polySurface2293_full_M_Rim_Main_Max1_0001"
+    }
+  ]
+}
