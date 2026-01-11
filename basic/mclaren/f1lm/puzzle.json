@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "brand": "McLaren",
+    "series": "F1LM",
+    "model": "supercar",
+    "difficulty": "easy",
+    "pieceCount": 18
+  },
+  "asset": {
+    "model": "f1lm.glb"
+  },
+  "pieces": [
+    {
+      "id": "object_3",
+      "node": "Object_3"
+    },
+    {
+      "id": "object_5",
+      "node": "Object_5"
+    },
+    {
+      "id": "object_2001",
+      "node": "Object_2001"
+    },
+    {
+      "id": "object_2002",
+      "node": "Object_2002"
+    },
+    {
+      "id": "object_2003",
+      "node": "Object_2003"
+    },
+    {
+      "id": "object_2004",
+      "node": "Object_2004"
+    },
+    {
+      "id": "object_2005",
+      "node": "Object_2005"
+    },
+    {
+      "id": "object_2006",
+      "node": "Object_2006"
+    },
+    {
+      "id": "object_2009",
+      "node": "Object_2009"
+    },
+    {
+      "id": "object_2010",
+      "node": "Object_2010"
+    },
+    {
+      "id": "object_2012",
+      "node": "Object_2012"
+    },
+    {
+      "id": "object_2013",
+      "node": "Object_2013"
+    },
+    {
+      "id": "object_2014",
+      "node": "Object_2014"
+    },
+    {
+      "id": "object_2015",
+      "node": "Object_2015"
+    },
+    {
+      "id": "object_2016",
+      "node": "Object_2016"
+    },
+    {
+      "id": "object_5002",
+      "node": "Object_5002"
+    },
+    {
+      "id": "object_5003",
+      "node": "Object_5003"
+    },
+    {
+      "id": "object_6001",
+      "node": "Object_6001"
+    }
+  ]
+}
