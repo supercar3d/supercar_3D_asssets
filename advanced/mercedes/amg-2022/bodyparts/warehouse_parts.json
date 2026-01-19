@@ -37,6 +37,12 @@
       "icon": "🪞",
       "files": ["sidemirror_l", "sidemirror_r"]
     },
+        {
+      "id": "sparkboard",
+      "label": "sparkboard",
+      "icon": "🪞",
+      "files": ["sparkboard_lf", "sparkboard_lr","sparkboard_rf","sparkboard_rr"]
+    },
     {
       "id": "spoiler",
       "label": "Spoiler",
