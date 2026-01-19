@@ -1,1 +1,60 @@
 
+{
+  "Warehouse_parts": [
+    {
+      "id": "bumper",
+      "label": "Bumper",
+      "icon": "🛡️",
+      "files": ["bumper_f", "bumper_r"]
+    },
+    {
+      "id": "cap",
+      "label": "Cap",
+      "icon": "⛽",
+      "files": ["cap"]
+    },
+    {
+      "id": "door",
+      "label": "Door",
+      "icon": "💨",
+      "files": ["door_rf","door_lf"]
+    },
+    {
+      "id": "hood",
+      "label": "Hood",
+      "icon": "🏎️",
+      "files": ["hood"]
+    },
+    {
+      "id": "sideskirt",
+      "label": "Side Skirt",
+      "icon": "➖",
+      "files": ["sideskirt_l", "sideskirt_r"]
+    },
+    {
+      "id": "sidemirror",
+      "label": "Side Mirror",
+      "icon": "🪞",
+      "files": ["sidemirror_l", "sidemirror_r"]
+    },
+    {
+      "id": "spoiler",
+      "label": "Spoiler",
+      "icon": "🏁",
+      "files": ["spoiler"]
+    },
+    {
+      "id": "wheels",
+      "label": "Wheels",
+      "icon": "☸",
+      "files": ["wheels_lf", "wheels_lr", "wheels_rf", "wheels_rr"]
+    },
+    {
+      "id": "winshield",
+      "label": "Windshield",
+      "icon": "🪟",
+      "files": ["winshield", "rear_window"]
+    }
+  ]
+}
+
